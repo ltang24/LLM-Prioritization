@@ -1,0 +1,3776 @@
+{
+  "CVE-2025-0001": [
+    {
+      "date": "2025-07-17",
+      "delta": 0.0001,
+      "new_score": 0.0011,
+      "old_score": 0.001,
+      "percentage_change": 10.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.11%",
+      "raw_old_score": "0.10%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-06-19",
+      "delta": 0.0001,
+      "new_score": 0.001,
+      "old_score": 0.0009,
+      "percentage_change": 11.111111111111112,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.10%",
+      "raw_old_score": "0.09%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-05-30",
+      "delta": -0.0002,
+      "new_score": 0.0009,
+      "old_score": 0.001,
+      "percentage_change": -20.0,
+      "raw_delta": "-0.02",
+      "raw_new_score": "0.09%",
+      "raw_old_score": "0.10%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-04-26",
+      "delta": 0.0002,
+      "new_score": 0.001,
+      "old_score": 0.0009,
+      "percentage_change": 22.222222222222225,
+      "raw_delta": "+0.02",
+      "raw_new_score": "0.10%",
+      "raw_old_score": "0.09%",
+      "row_number": "4"
+    },
+    {
+      "date": "2025-04-15",
+      "delta": 0.0002,
+      "new_score": 0.0009,
+      "old_score": 0.0007000000000000001,
+      "percentage_change": 28.57142857142857,
+      "raw_delta": "+0.02",
+      "raw_new_score": "0.09%",
+      "raw_old_score": "0.07%",
+      "row_number": "5"
+    },
+    {
+      "date": "2025-03-30",
+      "delta": 0.0002,
+      "new_score": 0.0007000000000000001,
+      "old_score": 0.0005,
+      "percentage_change": 40.0,
+      "raw_delta": "+0.02",
+      "raw_new_score": "0.07%",
+      "raw_old_score": "0.05%",
+      "row_number": "6"
+    },
+    {
+      "date": "2025-03-29",
+      "delta": -0.0002,
+      "new_score": 0.0005,
+      "old_score": 0.0007000000000000001,
+      "percentage_change": -28.57142857142857,
+      "raw_delta": "-0.02",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.07%",
+      "row_number": "7"
+    },
+    {
+      "date": "2025-03-28",
+      "delta": 0.0002,
+      "new_score": 0.0007000000000000001,
+      "old_score": 0.0005,
+      "percentage_change": 40.0,
+      "raw_delta": "+0.02",
+      "raw_new_score": "0.07%",
+      "raw_old_score": "0.05%",
+      "row_number": "8"
+    },
+    {
+      "date": "2025-03-27",
+      "delta": -0.0002,
+      "new_score": 0.0005,
+      "old_score": 0.0007000000000000001,
+      "percentage_change": -28.57142857142857,
+      "raw_delta": "-0.02",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.07%",
+      "row_number": "9"
+    },
+    {
+      "date": "2025-03-21",
+      "delta": 0.0001,
+      "new_score": 0.0007000000000000001,
+      "old_score": 0.0006,
+      "percentage_change": 16.666666666666668,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.07%",
+      "raw_old_score": "0.06%",
+      "row_number": "10"
+    },
+    {
+      "date": "2025-03-17",
+      "delta": 0.0001,
+      "new_score": 0.0006,
+      "old_score": 0.0004,
+      "percentage_change": 25.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.06%",
+      "raw_old_score": "0.04%",
+      "row_number": "11"
+    }
+  ],
+  "CVE-2025-0015": [
+    {
+      "date": "2025-07-14",
+      "delta": 0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0002,
+      "percentage_change": 50.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.02%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-07-04",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-07-02",
+      "delta": -0.0001,
+      "new_score": 0.0002,
+      "old_score": 0.0003,
+      "percentage_change": -33.333333333333336,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.03%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-06-05",
+      "delta": 0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0002,
+      "percentage_change": 50.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.02%",
+      "row_number": "4"
+    },
+    {
+      "date": "2025-04-12",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "5"
+    },
+    {
+      "date": "2025-03-30",
+      "delta": -0.0001,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": -50.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "6"
+    },
+    {
+      "date": "2025-03-29",
+      "delta": 0.0001,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 50.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "7"
+    },
+    {
+      "date": "2025-03-20",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "8"
+    },
+    {
+      "date": "2025-03-17",
+      "delta": -0.0003,
+      "new_score": 0.0002,
+      "old_score": 0.0004,
+      "percentage_change": -74.99999999999999,
+      "raw_delta": "-0.03",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.04%",
+      "row_number": "9"
+    }
+  ],
+  "CVE-2025-0035": [
+    {
+      "date": "2025-07-20",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-06-14",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0001,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.01%",
+      "row_number": "2"
+    }
+  ],
+  "CVE-2025-0037": [
+    {
+      "date": "2025-07-11",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-06-15",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "2"
+    }
+  ],
+  "CVE-2025-0049": [
+    {
+      "date": "2025-07-05",
+      "delta": 0.0001,
+      "new_score": 0.0004,
+      "old_score": 0.0003,
+      "percentage_change": 33.333333333333336,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.03%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-05-30",
+      "delta": 0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0003,
+      "percentage_change": 33.333333333333336,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.03%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-05-10",
+      "delta": 0.0,
+      "new_score": 0.0003,
+      "old_score": 0.0003,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.03%",
+      "row_number": "3"
+    }
+  ],
+  "CVE-2025-0050": [
+    {
+      "date": "2025-04-13",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0001,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.01%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-04-09",
+      "delta": -0.0001,
+      "new_score": 0.0001,
+      "old_score": 0.0002,
+      "percentage_change": -50.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.01%",
+      "raw_old_score": "0.02%",
+      "row_number": "2"
+    }
+  ],
+  "CVE-2025-0051": [
+    {
+      "date": "2025-07-22",
+      "delta": 0.0,
+      "new_score": 0.0009,
+      "old_score": 0.0009,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.09%",
+      "raw_old_score": "0.09%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-07-12",
+      "delta": 0.0001,
+      "new_score": 0.0009,
+      "old_score": 0.0008,
+      "percentage_change": 12.5,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.09%",
+      "raw_old_score": "0.08%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-07-05",
+      "delta": 0.0,
+      "new_score": 0.0008,
+      "old_score": 0.0007000000000000001,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.08%",
+      "raw_old_score": "0.07%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-06-16",
+      "delta": 0.0001,
+      "new_score": 0.0007000000000000001,
+      "old_score": 0.0007000000000000001,
+      "percentage_change": 14.285714285714285,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.07%",
+      "raw_old_score": "0.07%",
+      "row_number": "4"
+    }
+  ],
+  "CVE-2025-0052": [
+    {
+      "date": "2025-07-12",
+      "delta": 0.0001,
+      "new_score": 0.0009,
+      "old_score": 0.0008,
+      "percentage_change": 12.5,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.09%",
+      "raw_old_score": "0.08%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-07-05",
+      "delta": 0.0,
+      "new_score": 0.0008,
+      "old_score": 0.0007000000000000001,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.08%",
+      "raw_old_score": "0.07%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-06-16",
+      "delta": 0.0001,
+      "new_score": 0.0007000000000000001,
+      "old_score": 0.0007000000000000001,
+      "percentage_change": 14.285714285714285,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.07%",
+      "raw_old_score": "0.07%",
+      "row_number": "3"
+    }
+  ],
+  "CVE-2025-0053": [
+    {
+      "date": "2025-06-24",
+      "delta": 0.0001,
+      "new_score": 0.0005,
+      "old_score": 0.0005,
+      "percentage_change": 20.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.05%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-06-13",
+      "delta": 0.0,
+      "new_score": 0.0005,
+      "old_score": 0.0005,
+      "percentage_change": 0.0,
+      "raw_delta": "0.00",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.05%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-06-12",
+      "delta": -0.0002,
+      "new_score": 0.0005,
+      "old_score": 0.0007000000000000001,
+      "percentage_change": -28.57142857142857,
+      "raw_delta": "-0.02",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.07%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-05-16",
+      "delta": 0.0002,
+      "new_score": 0.0007000000000000001,
+      "old_score": 0.0005,
+      "percentage_change": 40.0,
+      "raw_delta": "+0.02",
+      "raw_new_score": "0.07%",
+      "raw_old_score": "0.05%",
+      "row_number": "4"
+    },
+    {
+      "date": "2025-04-15",
+      "delta": 0.0001,
+      "new_score": 0.0005,
+      "old_score": 0.0004,
+      "percentage_change": 25.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.04%",
+      "row_number": "5"
+    },
+    {
+      "date": "2025-03-30",
+      "delta": 0.0001,
+      "new_score": 0.0004,
+      "old_score": 0.0003,
+      "percentage_change": 33.333333333333336,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.03%",
+      "row_number": "6"
+    },
+    {
+      "date": "2025-03-29",
+      "delta": -0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0004,
+      "percentage_change": -25.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.04%",
+      "row_number": "7"
+    },
+    {
+      "date": "2025-03-23",
+      "delta": 0.0,
+      "new_score": 0.0004,
+      "old_score": 0.0004,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.04%",
+      "row_number": "8"
+    },
+    {
+      "date": "2025-03-17",
+      "delta": -0.0001,
+      "new_score": 0.0004,
+      "old_score": 0.0004,
+      "percentage_change": -25.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.04%",
+      "row_number": "9"
+    }
+  ],
+  "CVE-2025-0054": [
+    {
+      "date": "2025-07-22",
+      "delta": 0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0003,
+      "percentage_change": 33.333333333333336,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.03%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-07-11",
+      "delta": 0.0,
+      "new_score": 0.0003,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.02%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-07-10",
+      "delta": -0.0003,
+      "new_score": 0.0002,
+      "old_score": 0.0005,
+      "percentage_change": -60.0,
+      "raw_delta": "-0.03",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.05%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-06-13",
+      "delta": 9.999999999999999e-05,
+      "new_score": 0.0005,
+      "old_score": 0.0004,
+      "percentage_change": 24.999999999999996,
+      "raw_delta": "+0.02",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.04%",
+      "row_number": "4"
+    },
+    {
+      "date": "2025-04-20",
+      "delta": 0.0001,
+      "new_score": 0.0004,
+      "old_score": 0.0003,
+      "percentage_change": 33.333333333333336,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.03%",
+      "row_number": "5"
+    },
+    {
+      "date": "2025-03-30",
+      "delta": 0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0003,
+      "percentage_change": 33.333333333333336,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.03%",
+      "row_number": "6"
+    },
+    {
+      "date": "2025-03-29",
+      "delta": -0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0003,
+      "percentage_change": -33.333333333333336,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.03%",
+      "row_number": "7"
+    },
+    {
+      "date": "2025-03-17",
+      "delta": -0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0004,
+      "percentage_change": -25.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.04%",
+      "row_number": "8"
+    }
+  ],
+  "CVE-2025-0055": [
+    {
+      "date": "2025-06-24",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-06-13",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-06-12",
+      "delta": -0.0001,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": -50.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-05-16",
+      "delta": 0.0001,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 50.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "4"
+    },
+    {
+      "date": "2025-03-30",
+      "delta": -0.0001,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": -50.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "5"
+    },
+    {
+      "date": "2025-03-29",
+      "delta": 0.0001,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 50.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "6"
+    },
+    {
+      "date": "2025-03-17",
+      "delta": -0.0003,
+      "new_score": 0.0002,
+      "old_score": 0.0004,
+      "percentage_change": -74.99999999999999,
+      "raw_delta": "-0.03",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.04%",
+      "row_number": "7"
+    }
+  ],
+  "CVE-2025-0056": [
+    {
+      "date": "2025-06-24",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-06-13",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-06-12",
+      "delta": -0.0001,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": -50.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-05-16",
+      "delta": 0.0001,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 50.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "4"
+    },
+    {
+      "date": "2025-03-30",
+      "delta": -0.0001,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": -50.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "5"
+    },
+    {
+      "date": "2025-03-29",
+      "delta": 0.0001,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 50.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "6"
+    },
+    {
+      "date": "2025-03-17",
+      "delta": -0.0003,
+      "new_score": 0.0002,
+      "old_score": 0.0004,
+      "percentage_change": -74.99999999999999,
+      "raw_delta": "-0.03",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.04%",
+      "row_number": "7"
+    }
+  ],
+  "CVE-2025-0057": [
+    {
+      "date": "2025-06-24",
+      "delta": 0.0001,
+      "new_score": 0.0004,
+      "old_score": 0.0003,
+      "percentage_change": 33.333333333333336,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.03%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-06-13",
+      "delta": 0.0,
+      "new_score": 0.0003,
+      "old_score": 0.0003,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.03%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-06-12",
+      "delta": -0.0002,
+      "new_score": 0.0003,
+      "old_score": 0.0005,
+      "percentage_change": -40.0,
+      "raw_delta": "-0.02",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.05%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-05-16",
+      "delta": 0.0002,
+      "new_score": 0.0005,
+      "old_score": 0.0003,
+      "percentage_change": 66.66666666666667,
+      "raw_delta": "+0.02",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.03%",
+      "row_number": "4"
+    },
+    {
+      "date": "2025-03-30",
+      "delta": 0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0003,
+      "percentage_change": 33.333333333333336,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.03%",
+      "row_number": "5"
+    },
+    {
+      "date": "2025-03-29",
+      "delta": -0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0003,
+      "percentage_change": -33.333333333333336,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.03%",
+      "row_number": "6"
+    },
+    {
+      "date": "2025-03-23",
+      "delta": 0.0,
+      "new_score": 0.0003,
+      "old_score": 0.0003,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.03%",
+      "row_number": "7"
+    },
+    {
+      "date": "2025-03-17",
+      "delta": -0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0004,
+      "percentage_change": -25.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.04%",
+      "row_number": "8"
+    }
+  ],
+  "CVE-2025-0058": [
+    {
+      "date": "2025-06-24",
+      "delta": 0.0001,
+      "new_score": 0.0005,
+      "old_score": 0.0004,
+      "percentage_change": 25.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.04%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-06-13",
+      "delta": 0.0,
+      "new_score": 0.0004,
+      "old_score": 0.0004,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.04%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-06-12",
+      "delta": -0.0001,
+      "new_score": 0.0004,
+      "old_score": 0.0005,
+      "percentage_change": -20.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.05%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-05-16",
+      "delta": 0.0001,
+      "new_score": 0.0005,
+      "old_score": 0.0004,
+      "percentage_change": 25.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.04%",
+      "row_number": "4"
+    },
+    {
+      "date": "2025-03-30",
+      "delta": -0.0001,
+      "new_score": 0.0004,
+      "old_score": 0.0004,
+      "percentage_change": -25.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.04%",
+      "row_number": "5"
+    },
+    {
+      "date": "2025-03-29",
+      "delta": 0.0001,
+      "new_score": 0.0004,
+      "old_score": 0.0004,
+      "percentage_change": 25.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.04%",
+      "row_number": "6"
+    },
+    {
+      "date": "2025-03-23",
+      "delta": 0.0001,
+      "new_score": 0.0004,
+      "old_score": 0.0003,
+      "percentage_change": 33.333333333333336,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.03%",
+      "row_number": "7"
+    },
+    {
+      "date": "2025-03-17",
+      "delta": -0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0004,
+      "percentage_change": -25.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.04%",
+      "row_number": "8"
+    }
+  ],
+  "CVE-2025-0059": [
+    {
+      "date": "2025-06-24",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-06-13",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-06-12",
+      "delta": -0.0001,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": -50.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-05-16",
+      "delta": 0.0001,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 50.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "4"
+    },
+    {
+      "date": "2025-03-30",
+      "delta": -0.0001,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": -50.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "5"
+    },
+    {
+      "date": "2025-03-29",
+      "delta": 0.0001,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 50.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "6"
+    },
+    {
+      "date": "2025-03-17",
+      "delta": -0.0003,
+      "new_score": 0.0002,
+      "old_score": 0.0004,
+      "percentage_change": -74.99999999999999,
+      "raw_delta": "-0.03",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.04%",
+      "row_number": "7"
+    }
+  ],
+  "CVE-2025-0060": [
+    {
+      "date": "2025-06-24",
+      "delta": 0.0001,
+      "new_score": 0.0005,
+      "old_score": 0.0004,
+      "percentage_change": 25.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.04%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-06-13",
+      "delta": 0.00010000000000000005,
+      "new_score": 0.0004,
+      "old_score": 0.0003,
+      "percentage_change": 33.33333333333336,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.03%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-06-12",
+      "delta": -0.0002,
+      "new_score": 0.0003,
+      "old_score": 0.0006,
+      "percentage_change": -33.333333333333336,
+      "raw_delta": "-0.02",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.06%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-05-16",
+      "delta": 0.0001,
+      "new_score": 0.0006,
+      "old_score": 0.0005,
+      "percentage_change": 20.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.06%",
+      "raw_old_score": "0.05%",
+      "row_number": "4"
+    },
+    {
+      "date": "2025-03-30",
+      "delta": -0.0001,
+      "new_score": 0.0005,
+      "old_score": 0.0005,
+      "percentage_change": -20.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.05%",
+      "row_number": "5"
+    },
+    {
+      "date": "2025-03-29",
+      "delta": 0.0001,
+      "new_score": 0.0005,
+      "old_score": 0.0005,
+      "percentage_change": 20.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.05%",
+      "row_number": "6"
+    },
+    {
+      "date": "2025-03-23",
+      "delta": 0.0,
+      "new_score": 0.0005,
+      "old_score": 0.0004,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.04%",
+      "row_number": "7"
+    }
+  ],
+  "CVE-2025-0061": [
+    {
+      "date": "2025-06-24",
+      "delta": 0.0001,
+      "new_score": 0.0006,
+      "old_score": 0.0005,
+      "percentage_change": 20.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.06%",
+      "raw_old_score": "0.05%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-06-13",
+      "delta": 0.0,
+      "new_score": 0.0005,
+      "old_score": 0.0005,
+      "percentage_change": 0.0,
+      "raw_delta": "0.00",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.05%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-06-12",
+      "delta": -0.0005,
+      "new_score": 0.0005,
+      "old_score": 0.001,
+      "percentage_change": -50.0,
+      "raw_delta": "-0.05",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.10%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-05-16",
+      "delta": 0.0003,
+      "new_score": 0.001,
+      "old_score": 0.0008,
+      "percentage_change": 37.49999999999999,
+      "raw_delta": "+0.03",
+      "raw_new_score": "0.10%",
+      "raw_old_score": "0.08%",
+      "row_number": "4"
+    },
+    {
+      "date": "2025-04-15",
+      "delta": 0.0002,
+      "new_score": 0.0008,
+      "old_score": 0.0006,
+      "percentage_change": 33.333333333333336,
+      "raw_delta": "+0.02",
+      "raw_new_score": "0.08%",
+      "raw_old_score": "0.06%",
+      "row_number": "5"
+    },
+    {
+      "date": "2025-03-30",
+      "delta": 0.0,
+      "new_score": 0.0006,
+      "old_score": 0.0006,
+      "percentage_change": 0.0,
+      "raw_delta": "0.00",
+      "raw_new_score": "0.06%",
+      "raw_old_score": "0.06%",
+      "row_number": "6"
+    },
+    {
+      "date": "2025-03-29",
+      "delta": 0.0,
+      "new_score": 0.0006,
+      "old_score": 0.0006,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.06%",
+      "raw_old_score": "0.06%",
+      "row_number": "7"
+    },
+    {
+      "date": "2025-03-23",
+      "delta": 0.0,
+      "new_score": 0.0006,
+      "old_score": 0.0005,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.06%",
+      "raw_old_score": "0.05%",
+      "row_number": "8"
+    },
+    {
+      "date": "2025-03-17",
+      "delta": 0.0001,
+      "new_score": 0.0005,
+      "old_score": 0.0004,
+      "percentage_change": 25.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.04%",
+      "row_number": "9"
+    }
+  ],
+  "CVE-2025-0062": [
+    {
+      "date": "2025-07-11",
+      "delta": 9.999999999999994e-05,
+      "new_score": 0.0006,
+      "old_score": 0.0005,
+      "percentage_change": 19.999999999999986,
+      "raw_delta": "+0.02",
+      "raw_new_score": "0.06%",
+      "raw_old_score": "0.05%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-05-18",
+      "delta": 0.0001,
+      "new_score": 0.0005,
+      "old_score": 0.0004,
+      "percentage_change": 25.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.04%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-04-12",
+      "delta": 0.0,
+      "new_score": 0.0004,
+      "old_score": 0.0004,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.04%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-03-30",
+      "delta": 0.0001,
+      "new_score": 0.0004,
+      "old_score": 0.0003,
+      "percentage_change": 33.333333333333336,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.03%",
+      "row_number": "4"
+    },
+    {
+      "date": "2025-03-29",
+      "delta": -0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0004,
+      "percentage_change": -25.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.04%",
+      "row_number": "5"
+    },
+    {
+      "date": "2025-03-17",
+      "delta": -0.0001,
+      "new_score": 0.0004,
+      "old_score": 0.0005,
+      "percentage_change": -20.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.05%",
+      "row_number": "6"
+    }
+  ],
+  "CVE-2025-0063": [
+    {
+      "date": "2025-06-24",
+      "delta": 0.0003,
+      "new_score": 0.0014000000000000002,
+      "old_score": 0.0011,
+      "percentage_change": 27.27272727272727,
+      "raw_delta": "+0.03",
+      "raw_new_score": "0.14%",
+      "raw_old_score": "0.11%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-06-14",
+      "delta": 0.0001,
+      "new_score": 0.0011,
+      "old_score": 0.0011,
+      "percentage_change": 9.090909090909092,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.11%",
+      "raw_old_score": "0.11%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-06-13",
+      "delta": 0.0001,
+      "new_score": 0.0011,
+      "old_score": 0.001,
+      "percentage_change": 10.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.11%",
+      "raw_old_score": "0.10%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-06-12",
+      "delta": -0.0001,
+      "new_score": 0.001,
+      "old_score": 0.0011,
+      "percentage_change": -9.090909090909092,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.10%",
+      "raw_old_score": "0.11%",
+      "row_number": "4"
+    },
+    {
+      "date": "2025-05-16",
+      "delta": 0.0003,
+      "new_score": 0.0011,
+      "old_score": 0.0008,
+      "percentage_change": 37.49999999999999,
+      "raw_delta": "+0.03",
+      "raw_new_score": "0.11%",
+      "raw_old_score": "0.08%",
+      "row_number": "5"
+    },
+    {
+      "date": "2025-03-30",
+      "delta": 0.0,
+      "new_score": 0.0008,
+      "old_score": 0.0008,
+      "percentage_change": 0.0,
+      "raw_delta": "0.00",
+      "raw_new_score": "0.08%",
+      "raw_old_score": "0.08%",
+      "row_number": "6"
+    },
+    {
+      "date": "2025-03-29",
+      "delta": 0.0,
+      "new_score": 0.0008,
+      "old_score": 0.0008,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.08%",
+      "raw_old_score": "0.08%",
+      "row_number": "7"
+    },
+    {
+      "date": "2025-03-28",
+      "delta": 0.0,
+      "new_score": 0.0008,
+      "old_score": 0.0008,
+      "percentage_change": 0.0,
+      "raw_delta": "0.00",
+      "raw_new_score": "0.08%",
+      "raw_old_score": "0.08%",
+      "row_number": "8"
+    },
+    {
+      "date": "2025-03-27",
+      "delta": 0.0,
+      "new_score": 0.0008,
+      "old_score": 0.0008,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.08%",
+      "raw_old_score": "0.08%",
+      "row_number": "9"
+    },
+    {
+      "date": "2025-03-23",
+      "delta": 0.0001,
+      "new_score": 0.0008,
+      "old_score": 0.0007000000000000001,
+      "percentage_change": 14.285714285714285,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.08%",
+      "raw_old_score": "0.07%",
+      "row_number": "10"
+    },
+    {
+      "date": "2025-03-17",
+      "delta": 0.0003000000000000001,
+      "new_score": 0.0007000000000000001,
+      "old_score": 0.0004,
+      "percentage_change": 75.00000000000003,
+      "raw_delta": "+0.02",
+      "raw_new_score": "0.07%",
+      "raw_old_score": "0.04%",
+      "row_number": "11"
+    }
+  ],
+  "CVE-2025-0064": [
+    {
+      "date": "2025-07-22",
+      "delta": 0.0001,
+      "new_score": 0.0005,
+      "old_score": 0.0004,
+      "percentage_change": 25.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.04%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-07-11",
+      "delta": 0.0,
+      "new_score": 0.0004,
+      "old_score": 0.0004,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.04%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-07-10",
+      "delta": -0.0001,
+      "new_score": 0.0004,
+      "old_score": 0.0005,
+      "percentage_change": -20.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.05%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-06-13",
+      "delta": 0.0001,
+      "new_score": 0.0005,
+      "old_score": 0.0004,
+      "percentage_change": 25.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.04%",
+      "row_number": "4"
+    },
+    {
+      "date": "2025-04-20",
+      "delta": 0.0,
+      "new_score": 0.0004,
+      "old_score": 0.0004,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.04%",
+      "row_number": "5"
+    },
+    {
+      "date": "2025-03-30",
+      "delta": 0.0001,
+      "new_score": 0.0004,
+      "old_score": 0.0003,
+      "percentage_change": 33.333333333333336,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.03%",
+      "row_number": "6"
+    },
+    {
+      "date": "2025-03-29",
+      "delta": -0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0004,
+      "percentage_change": -25.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.04%",
+      "row_number": "7"
+    },
+    {
+      "date": "2025-03-20",
+      "delta": 0.0,
+      "new_score": 0.0004,
+      "old_score": 0.0004,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.04%",
+      "row_number": "8"
+    },
+    {
+      "date": "2025-03-17",
+      "delta": -0.0001,
+      "new_score": 0.0004,
+      "old_score": 0.0004,
+      "percentage_change": -25.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.04%",
+      "row_number": "9"
+    },
+    {
+      "date": "2025-02-12",
+      "delta": -0.0001,
+      "new_score": 0.0004,
+      "old_score": 0.0005,
+      "percentage_change": -20.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.05%",
+      "row_number": "10"
+    }
+  ],
+  "CVE-2025-0065": [
+    {
+      "date": "2025-07-08",
+      "delta": 0.0001,
+      "new_score": 0.0007000000000000001,
+      "old_score": 0.0006,
+      "percentage_change": 16.666666666666668,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.07%",
+      "raw_old_score": "0.06%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-06-28",
+      "delta": 0.0001,
+      "new_score": 0.0006,
+      "old_score": 0.0005,
+      "percentage_change": 20.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.06%",
+      "raw_old_score": "0.05%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-06-27",
+      "delta": -0.0002,
+      "new_score": 0.0005,
+      "old_score": 0.0007000000000000001,
+      "percentage_change": -28.57142857142857,
+      "raw_delta": "-0.02",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.07%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-06-26",
+      "delta": -0.00039999999999999996,
+      "new_score": 0.0007000000000000001,
+      "old_score": 0.0011,
+      "percentage_change": -36.36363636363636,
+      "raw_delta": "-0.05",
+      "raw_new_score": "0.07%",
+      "raw_old_score": "0.11%",
+      "row_number": "4"
+    },
+    {
+      "date": "2025-05-30",
+      "delta": 0.0002,
+      "new_score": 0.0011,
+      "old_score": 0.0009,
+      "percentage_change": 22.222222222222225,
+      "raw_delta": "+0.02",
+      "raw_new_score": "0.11%",
+      "raw_old_score": "0.09%",
+      "row_number": "5"
+    },
+    {
+      "date": "2025-05-22",
+      "delta": 0.0001,
+      "new_score": 0.0009,
+      "old_score": 0.0009,
+      "percentage_change": 11.111111111111112,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.09%",
+      "raw_old_score": "0.09%",
+      "row_number": "6"
+    },
+    {
+      "date": "2025-05-02",
+      "delta": 0.00030000000000000003,
+      "new_score": 0.0009,
+      "old_score": 0.0006,
+      "percentage_change": 50.000000000000014,
+      "raw_delta": "+0.02",
+      "raw_new_score": "0.09%",
+      "raw_old_score": "0.06%",
+      "row_number": "7"
+    },
+    {
+      "date": "2025-04-15",
+      "delta": -0.0005000000000000001,
+      "new_score": 0.0006,
+      "old_score": 0.0011,
+      "percentage_change": -45.45454545454547,
+      "raw_delta": "-0.04",
+      "raw_new_score": "0.06%",
+      "raw_old_score": "0.11%",
+      "row_number": "8"
+    },
+    {
+      "date": "2025-04-07",
+      "delta": 0.0002,
+      "new_score": 0.0011,
+      "old_score": 0.0009,
+      "percentage_change": 22.222222222222225,
+      "raw_delta": "+0.02",
+      "raw_new_score": "0.11%",
+      "raw_old_score": "0.09%",
+      "row_number": "9"
+    },
+    {
+      "date": "2025-03-30",
+      "delta": 0.0001,
+      "new_score": 0.0009,
+      "old_score": 0.0009,
+      "percentage_change": 11.111111111111112,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.09%",
+      "raw_old_score": "0.09%",
+      "row_number": "10"
+    },
+    {
+      "date": "2025-03-29",
+      "delta": -0.0001,
+      "new_score": 0.0009,
+      "old_score": 0.0009,
+      "percentage_change": -11.111111111111112,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.09%",
+      "raw_old_score": "0.09%",
+      "row_number": "11"
+    },
+    {
+      "date": "2025-03-28",
+      "delta": 0.0001,
+      "new_score": 0.0009,
+      "old_score": 0.0009,
+      "percentage_change": 11.111111111111112,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.09%",
+      "raw_old_score": "0.09%",
+      "row_number": "12"
+    },
+    {
+      "date": "2025-03-27",
+      "delta": -0.0001,
+      "new_score": 0.0009,
+      "old_score": 0.0009,
+      "percentage_change": -11.111111111111112,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.09%",
+      "raw_old_score": "0.09%",
+      "row_number": "13"
+    },
+    {
+      "date": "2025-03-20",
+      "delta": 0.0006,
+      "new_score": 0.0009,
+      "old_score": 0.0003,
+      "percentage_change": 200.0,
+      "raw_delta": "+0.06",
+      "raw_new_score": "0.09%",
+      "raw_old_score": "0.03%",
+      "row_number": "14"
+    },
+    {
+      "date": "2025-03-17",
+      "delta": -0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0004,
+      "percentage_change": -25.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.04%",
+      "row_number": "15"
+    }
+  ],
+  "CVE-2025-0066": [
+    {
+      "date": "2025-06-24",
+      "delta": 0.0002,
+      "new_score": 0.0008,
+      "old_score": 0.0006,
+      "percentage_change": 33.333333333333336,
+      "raw_delta": "+0.02",
+      "raw_new_score": "0.08%",
+      "raw_old_score": "0.06%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-06-13",
+      "delta": 0.0001,
+      "new_score": 0.0006,
+      "old_score": 0.0006,
+      "percentage_change": 16.666666666666668,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.06%",
+      "raw_old_score": "0.06%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-06-12",
+      "delta": -0.0002,
+      "new_score": 0.0006,
+      "old_score": 0.0008,
+      "percentage_change": -25.0,
+      "raw_delta": "-0.02",
+      "raw_new_score": "0.06%",
+      "raw_old_score": "0.08%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-05-16",
+      "delta": 0.0002,
+      "new_score": 0.0008,
+      "old_score": 0.0006,
+      "percentage_change": 33.333333333333336,
+      "raw_delta": "+0.02",
+      "raw_new_score": "0.08%",
+      "raw_old_score": "0.06%",
+      "row_number": "4"
+    },
+    {
+      "date": "2025-03-30",
+      "delta": 0.0,
+      "new_score": 0.0006,
+      "old_score": 0.0006,
+      "percentage_change": 0.0,
+      "raw_delta": "0.00",
+      "raw_new_score": "0.06%",
+      "raw_old_score": "0.06%",
+      "row_number": "5"
+    },
+    {
+      "date": "2025-03-29",
+      "delta": 0.0,
+      "new_score": 0.0006,
+      "old_score": 0.0006,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.06%",
+      "raw_old_score": "0.06%",
+      "row_number": "6"
+    },
+    {
+      "date": "2025-03-28",
+      "delta": 0.0,
+      "new_score": 0.0006,
+      "old_score": 0.0006,
+      "percentage_change": 0.0,
+      "raw_delta": "0.00",
+      "raw_new_score": "0.06%",
+      "raw_old_score": "0.06%",
+      "row_number": "7"
+    },
+    {
+      "date": "2025-03-27",
+      "delta": 0.0,
+      "new_score": 0.0006,
+      "old_score": 0.0006,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.06%",
+      "raw_old_score": "0.06%",
+      "row_number": "8"
+    },
+    {
+      "date": "2025-03-23",
+      "delta": 0.0001,
+      "new_score": 0.0006,
+      "old_score": 0.0005,
+      "percentage_change": 20.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.06%",
+      "raw_old_score": "0.05%",
+      "row_number": "9"
+    },
+    {
+      "date": "2025-03-17",
+      "delta": 0.0001,
+      "new_score": 0.0005,
+      "old_score": 0.0004,
+      "percentage_change": 25.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.04%",
+      "row_number": "10"
+    }
+  ],
+  "CVE-2025-0067": [
+    {
+      "date": "2025-06-24",
+      "delta": 0.0001,
+      "new_score": 0.0006,
+      "old_score": 0.0005,
+      "percentage_change": 20.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.06%",
+      "raw_old_score": "0.05%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-06-13",
+      "delta": 0.0001,
+      "new_score": 0.0005,
+      "old_score": 0.0005,
+      "percentage_change": 20.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.05%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-06-12",
+      "delta": -9.999999999999994e-05,
+      "new_score": 0.0005,
+      "old_score": 0.0006,
+      "percentage_change": -16.666666666666657,
+      "raw_delta": "-0.02",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.06%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-05-16",
+      "delta": 9.999999999999994e-05,
+      "new_score": 0.0006,
+      "old_score": 0.0005,
+      "percentage_change": 19.999999999999986,
+      "raw_delta": "+0.02",
+      "raw_new_score": "0.06%",
+      "raw_old_score": "0.05%",
+      "row_number": "4"
+    },
+    {
+      "date": "2025-03-30",
+      "delta": 0.0001,
+      "new_score": 0.0005,
+      "old_score": 0.0004,
+      "percentage_change": 25.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.04%",
+      "row_number": "5"
+    },
+    {
+      "date": "2025-03-29",
+      "delta": -0.0001,
+      "new_score": 0.0004,
+      "old_score": 0.0005,
+      "percentage_change": -20.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.05%",
+      "row_number": "6"
+    },
+    {
+      "date": "2025-03-23",
+      "delta": 0.0001,
+      "new_score": 0.0005,
+      "old_score": 0.0004,
+      "percentage_change": 25.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.04%",
+      "row_number": "7"
+    },
+    {
+      "date": "2025-03-17",
+      "delta": 0.0,
+      "new_score": 0.0004,
+      "old_score": 0.0004,
+      "percentage_change": 0.0,
+      "raw_delta": "0.00",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.04%",
+      "row_number": "8"
+    }
+  ],
+  "CVE-2025-0068": [
+    {
+      "date": "2025-06-24",
+      "delta": 0.0001,
+      "new_score": 0.0004,
+      "old_score": 0.0004,
+      "percentage_change": 25.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.04%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-06-13",
+      "delta": 0.00010000000000000005,
+      "new_score": 0.0004,
+      "old_score": 0.0003,
+      "percentage_change": 33.33333333333336,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.03%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-06-12",
+      "delta": -0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0004,
+      "percentage_change": -25.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.04%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-05-16",
+      "delta": 0.0001,
+      "new_score": 0.0004,
+      "old_score": 0.0003,
+      "percentage_change": 33.333333333333336,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.03%",
+      "row_number": "4"
+    },
+    {
+      "date": "2025-03-30",
+      "delta": 0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0003,
+      "percentage_change": 33.333333333333336,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.03%",
+      "row_number": "5"
+    },
+    {
+      "date": "2025-03-29",
+      "delta": -0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0003,
+      "percentage_change": -33.333333333333336,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.03%",
+      "row_number": "6"
+    },
+    {
+      "date": "2025-03-23",
+      "delta": 0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0003,
+      "percentage_change": 33.333333333333336,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.03%",
+      "row_number": "7"
+    },
+    {
+      "date": "2025-03-17",
+      "delta": -0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0004,
+      "percentage_change": -25.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.04%",
+      "row_number": "8"
+    }
+  ],
+  "CVE-2025-0069": [
+    {
+      "date": "2025-06-24",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-06-13",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-06-12",
+      "delta": -0.0001,
+      "new_score": 0.0002,
+      "old_score": 0.0003,
+      "percentage_change": -33.333333333333336,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.03%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-05-16",
+      "delta": 0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0002,
+      "percentage_change": 50.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.02%",
+      "row_number": "4"
+    },
+    {
+      "date": "2025-03-30",
+      "delta": -0.0001,
+      "new_score": 0.0002,
+      "old_score": 0.0003,
+      "percentage_change": -33.333333333333336,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.03%",
+      "row_number": "5"
+    },
+    {
+      "date": "2025-03-29",
+      "delta": 0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0002,
+      "percentage_change": 50.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.02%",
+      "row_number": "6"
+    },
+    {
+      "date": "2025-03-23",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "7"
+    },
+    {
+      "date": "2025-03-17",
+      "delta": -0.0003,
+      "new_score": 0.0002,
+      "old_score": 0.0004,
+      "percentage_change": -74.99999999999999,
+      "raw_delta": "-0.03",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.04%",
+      "row_number": "8"
+    }
+  ],
+  "CVE-2025-0070": [
+    {
+      "date": "2025-06-24",
+      "delta": 0.0002,
+      "new_score": 0.0012,
+      "old_score": 0.001,
+      "percentage_change": 20.0,
+      "raw_delta": "+0.02",
+      "raw_new_score": "0.12%",
+      "raw_old_score": "0.10%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-06-13",
+      "delta": 0.0001,
+      "new_score": 0.001,
+      "old_score": 0.0009,
+      "percentage_change": 11.111111111111112,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.10%",
+      "raw_old_score": "0.09%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-06-12",
+      "delta": -0.0004,
+      "new_score": 0.0009,
+      "old_score": 0.0013,
+      "percentage_change": -30.76923076923077,
+      "raw_delta": "-0.04",
+      "raw_new_score": "0.09%",
+      "raw_old_score": "0.13%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-05-16",
+      "delta": 0.0003,
+      "new_score": 0.0013,
+      "old_score": 0.001,
+      "percentage_change": 30.0,
+      "raw_delta": "+0.03",
+      "raw_new_score": "0.13%",
+      "raw_old_score": "0.10%",
+      "row_number": "4"
+    },
+    {
+      "date": "2025-03-30",
+      "delta": 0.0004,
+      "new_score": 0.001,
+      "old_score": 0.0006,
+      "percentage_change": 66.66666666666667,
+      "raw_delta": "+0.04",
+      "raw_new_score": "0.10%",
+      "raw_old_score": "0.06%",
+      "row_number": "5"
+    },
+    {
+      "date": "2025-03-29",
+      "delta": -0.0004,
+      "new_score": 0.0006,
+      "old_score": 0.001,
+      "percentage_change": -40.0,
+      "raw_delta": "-0.04",
+      "raw_new_score": "0.06%",
+      "raw_old_score": "0.10%",
+      "row_number": "6"
+    },
+    {
+      "date": "2025-03-28",
+      "delta": 0.0004,
+      "new_score": 0.001,
+      "old_score": 0.0006,
+      "percentage_change": 66.66666666666667,
+      "raw_delta": "+0.04",
+      "raw_new_score": "0.10%",
+      "raw_old_score": "0.06%",
+      "row_number": "7"
+    },
+    {
+      "date": "2025-03-27",
+      "delta": -0.0004,
+      "new_score": 0.0006,
+      "old_score": 0.001,
+      "percentage_change": -40.0,
+      "raw_delta": "-0.04",
+      "raw_new_score": "0.06%",
+      "raw_old_score": "0.10%",
+      "row_number": "8"
+    },
+    {
+      "date": "2025-03-23",
+      "delta": 0.0002,
+      "new_score": 0.001,
+      "old_score": 0.0009,
+      "percentage_change": 22.222222222222225,
+      "raw_delta": "+0.02",
+      "raw_new_score": "0.10%",
+      "raw_old_score": "0.09%",
+      "row_number": "9"
+    },
+    {
+      "date": "2025-03-17",
+      "delta": 0.0005,
+      "new_score": 0.0009,
+      "old_score": 0.0004,
+      "percentage_change": 125.0,
+      "raw_delta": "+0.05",
+      "raw_new_score": "0.09%",
+      "raw_old_score": "0.04%",
+      "row_number": "10"
+    }
+  ],
+  "CVE-2025-0071": [
+    {
+      "date": "2025-07-11",
+      "delta": 0.0001,
+      "new_score": 0.0006,
+      "old_score": 0.0004,
+      "percentage_change": 25.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.06%",
+      "raw_old_score": "0.04%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-05-18",
+      "delta": 0.0,
+      "new_score": 0.0004,
+      "old_score": 0.0004,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.04%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-04-12",
+      "delta": 0.0,
+      "new_score": 0.0004,
+      "old_score": 0.0004,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.04%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-03-30",
+      "delta": 0.0001,
+      "new_score": 0.0004,
+      "old_score": 0.0003,
+      "percentage_change": 33.333333333333336,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.03%",
+      "row_number": "4"
+    },
+    {
+      "date": "2025-03-29",
+      "delta": -0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0004,
+      "percentage_change": -25.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.04%",
+      "row_number": "5"
+    },
+    {
+      "date": "2025-03-17",
+      "delta": -0.0001,
+      "new_score": 0.0004,
+      "old_score": 0.0005,
+      "percentage_change": -20.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.05%",
+      "row_number": "6"
+    }
+  ],
+  "CVE-2025-0072": [
+    {
+      "date": "2025-07-16",
+      "delta": -0.0001,
+      "new_score": 0.0001,
+      "old_score": 0.0002,
+      "percentage_change": -50.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.01%",
+      "raw_old_score": "0.02%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-07-09",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-06-03",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-05-08",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "4"
+    }
+  ],
+  "CVE-2025-0073": [
+    {
+      "date": "2025-07-04",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-06-08",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0001,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.01%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-06-03",
+      "delta": -0.0001,
+      "new_score": 0.0001,
+      "old_score": 0.0002,
+      "percentage_change": -50.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.01%",
+      "raw_old_score": "0.02%",
+      "row_number": "3"
+    }
+  ],
+  "CVE-2025-0101": [
+    {
+      "date": "2025-06-23",
+      "delta": 0.0001,
+      "new_score": 0.0006,
+      "old_score": 0.0005,
+      "percentage_change": 20.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.06%",
+      "raw_old_score": "0.05%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-05-18",
+      "delta": 0.0001,
+      "new_score": 0.0005,
+      "old_score": 0.0004,
+      "percentage_change": 25.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.04%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-04-22",
+      "delta": 0.0,
+      "new_score": 0.0004,
+      "old_score": 0.0004,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.04%",
+      "row_number": "3"
+    }
+  ],
+  "CVE-2025-0103": [
+    {
+      "date": "2025-06-21",
+      "delta": 0.0002,
+      "new_score": 0.001,
+      "old_score": 0.0008,
+      "percentage_change": 25.0,
+      "raw_delta": "+0.02",
+      "raw_new_score": "0.10%",
+      "raw_old_score": "0.08%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-06-10",
+      "delta": 0.0001,
+      "new_score": 0.0008,
+      "old_score": 0.0007000000000000001,
+      "percentage_change": 14.285714285714285,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.08%",
+      "raw_old_score": "0.07%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-06-06",
+      "delta": 0.0001,
+      "new_score": 0.0007000000000000001,
+      "old_score": 0.0006,
+      "percentage_change": 16.666666666666668,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.07%",
+      "raw_old_score": "0.06%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-05-13",
+      "delta": 9.999999999999994e-05,
+      "new_score": 0.0006,
+      "old_score": 0.0005,
+      "percentage_change": 19.999999999999986,
+      "raw_delta": "+0.02",
+      "raw_new_score": "0.06%",
+      "raw_old_score": "0.05%",
+      "row_number": "4"
+    },
+    {
+      "date": "2025-03-30",
+      "delta": 0.0001,
+      "new_score": 0.0005,
+      "old_score": 0.0004,
+      "percentage_change": 25.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.04%",
+      "row_number": "5"
+    },
+    {
+      "date": "2025-03-29",
+      "delta": -0.0001,
+      "new_score": 0.0004,
+      "old_score": 0.0005,
+      "percentage_change": -20.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.05%",
+      "row_number": "6"
+    },
+    {
+      "date": "2025-03-20",
+      "delta": 0.0,
+      "new_score": 0.0005,
+      "old_score": 0.0004,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.04%",
+      "row_number": "7"
+    }
+  ],
+  "CVE-2025-0108": [
+    {
+      "date": "2025-07-24",
+      "delta": -0.0009,
+      "new_score": 0.9401,
+      "old_score": 0.9409000000000001,
+      "percentage_change": -0.09565309809756616,
+      "raw_delta": "-0.09",
+      "raw_new_score": "94.01%",
+      "raw_old_score": "94.09%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-07-22",
+      "delta": 0.0005,
+      "new_score": 0.9409000000000001,
+      "old_score": 0.9404,
+      "percentage_change": 0.05316886431305828,
+      "raw_delta": "+0.05",
+      "raw_new_score": "94.09%",
+      "raw_old_score": "94.04%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-07-17",
+      "delta": -0.0006,
+      "new_score": 0.9404,
+      "old_score": 0.941,
+      "percentage_change": -0.06376195536663125,
+      "raw_delta": "-0.06",
+      "raw_new_score": "94.04%",
+      "raw_old_score": "94.10%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-07-16",
+      "delta": 0.0001,
+      "new_score": 0.941,
+      "old_score": 0.9409000000000001,
+      "percentage_change": 0.010628122010840685,
+      "raw_delta": "+0.01",
+      "raw_new_score": "94.10%",
+      "raw_old_score": "94.09%",
+      "row_number": "4"
+    },
+    {
+      "date": "2025-07-12",
+      "delta": -0.0002,
+      "new_score": 0.9409000000000001,
+      "old_score": 0.9411,
+      "percentage_change": -0.021251726702794602,
+      "raw_delta": "-0.02",
+      "raw_new_score": "94.09%",
+      "raw_old_score": "94.11%",
+      "row_number": "5"
+    },
+    {
+      "date": "2025-07-10",
+      "delta": 0.0005,
+      "new_score": 0.9411,
+      "old_score": 0.9406,
+      "percentage_change": 0.0531575590048905,
+      "raw_delta": "+0.05",
+      "raw_new_score": "94.11%",
+      "raw_old_score": "94.06%",
+      "row_number": "6"
+    },
+    {
+      "date": "2025-07-04",
+      "delta": 0.0026999999999999247,
+      "new_score": 0.9406,
+      "old_score": 0.9379000000000001,
+      "percentage_change": 0.28787717240643185,
+      "raw_delta": "+0.28",
+      "raw_new_score": "94.06%",
+      "raw_old_score": "93.79%",
+      "row_number": "7"
+    },
+    {
+      "date": "2025-07-01",
+      "delta": -0.002,
+      "new_score": 0.9379000000000001,
+      "old_score": 0.9398000000000001,
+      "percentage_change": -0.21281123643328367,
+      "raw_delta": "-0.20",
+      "raw_new_score": "93.79%",
+      "raw_old_score": "93.98%",
+      "row_number": "8"
+    },
+    {
+      "date": "2025-06-24",
+      "delta": 0.0015,
+      "new_score": 0.9398000000000001,
+      "old_score": 0.9384,
+      "percentage_change": 0.159846547314578,
+      "raw_delta": "+0.15",
+      "raw_new_score": "93.98%",
+      "raw_old_score": "93.84%",
+      "row_number": "9"
+    },
+    {
+      "date": "2025-06-15",
+      "delta": -0.002,
+      "new_score": 0.9384,
+      "old_score": 0.9403,
+      "percentage_change": -0.2126980750824205,
+      "raw_delta": "-0.20",
+      "raw_new_score": "93.84%",
+      "raw_old_score": "94.03%",
+      "row_number": "10"
+    },
+    {
+      "date": "2025-06-14",
+      "delta": 0.0006,
+      "new_score": 0.9403,
+      "old_score": 0.9397,
+      "percentage_change": 0.06385016494625943,
+      "raw_delta": "+0.06",
+      "raw_new_score": "94.03%",
+      "raw_old_score": "93.97%",
+      "row_number": "11"
+    },
+    {
+      "date": "2025-06-04",
+      "delta": 0.002,
+      "new_score": 0.9397,
+      "old_score": 0.9377,
+      "percentage_change": 0.21328783192918846,
+      "raw_delta": "+0.20",
+      "raw_new_score": "93.97%",
+      "raw_old_score": "93.77%",
+      "row_number": "12"
+    },
+    {
+      "date": "2025-06-01",
+      "delta": -0.002,
+      "new_score": 0.9377,
+      "old_score": 0.9397,
+      "percentage_change": -0.21283388315419816,
+      "raw_delta": "-0.20",
+      "raw_new_score": "93.77%",
+      "raw_old_score": "93.97%",
+      "row_number": "13"
+    },
+    {
+      "date": "2025-05-31",
+      "delta": -0.0007000000000000001,
+      "new_score": 0.9397,
+      "old_score": 0.9404,
+      "percentage_change": -0.0744364100382816,
+      "raw_delta": "-0.07",
+      "raw_new_score": "93.97%",
+      "raw_old_score": "94.04%",
+      "row_number": "14"
+    },
+    {
+      "date": "2025-05-25",
+      "delta": 0.0,
+      "new_score": 0.9404,
+      "old_score": 0.9404,
+      "percentage_change": 0.0,
+      "raw_delta": "0.00",
+      "raw_new_score": "94.04%",
+      "raw_old_score": "94.04%",
+      "row_number": "15"
+    },
+    {
+      "date": "2025-05-17",
+      "delta": 0.0011999999999999789,
+      "new_score": 0.9404,
+      "old_score": 0.9392,
+      "percentage_change": 0.1277683134582601,
+      "raw_delta": "+0.13",
+      "raw_new_score": "94.04%",
+      "raw_old_score": "93.92%",
+      "row_number": "16"
+    },
+    {
+      "date": "2025-05-15",
+      "delta": 0.0026000000000000467,
+      "new_score": 0.9392,
+      "old_score": 0.9366,
+      "percentage_change": 0.2775998291693409,
+      "raw_delta": "+0.25",
+      "raw_new_score": "93.92%",
+      "raw_old_score": "93.66%",
+      "row_number": "17"
+    },
+    {
+      "date": "2025-05-04",
+      "delta": 0.003,
+      "new_score": 0.9366,
+      "old_score": 0.9336,
+      "percentage_change": 0.3213367609254499,
+      "raw_delta": "+0.30",
+      "raw_new_score": "93.66%",
+      "raw_old_score": "93.36%",
+      "row_number": "18"
+    },
+    {
+      "date": "2025-05-01",
+      "delta": -0.003,
+      "new_score": 0.9336,
+      "old_score": 0.9366,
+      "percentage_change": -0.3203074951953876,
+      "raw_delta": "-0.30",
+      "raw_new_score": "93.36%",
+      "raw_old_score": "93.66%",
+      "row_number": "19"
+    },
+    {
+      "date": "2025-04-30",
+      "delta": 0.001,
+      "new_score": 0.9366,
+      "old_score": 0.9357,
+      "percentage_change": 0.10687186063909372,
+      "raw_delta": "+0.10",
+      "raw_new_score": "93.66%",
+      "raw_old_score": "93.57%",
+      "row_number": "20"
+    },
+    {
+      "date": "2025-04-29",
+      "delta": -0.002,
+      "new_score": 0.9357,
+      "old_score": 0.9376000000000001,
+      "percentage_change": -0.2133105802047781,
+      "raw_delta": "-0.20",
+      "raw_new_score": "93.57%",
+      "raw_old_score": "93.76%",
+      "row_number": "21"
+    },
+    {
+      "date": "2025-04-21",
+      "delta": 0.0002,
+      "new_score": 0.9376000000000001,
+      "old_score": 0.9373999999999999,
+      "percentage_change": 0.02133560913164071,
+      "raw_delta": "+0.02",
+      "raw_new_score": "93.76%",
+      "raw_old_score": "93.74%",
+      "row_number": "22"
+    },
+    {
+      "date": "2025-04-20",
+      "delta": 0.0029,
+      "new_score": 0.9373999999999999,
+      "old_score": 0.9345,
+      "percentage_change": 0.31032637774210803,
+      "raw_delta": "+0.29",
+      "raw_new_score": "93.74%",
+      "raw_old_score": "93.45%",
+      "row_number": "23"
+    },
+    {
+      "date": "2025-04-15",
+      "delta": -0.0025,
+      "new_score": 0.9345,
+      "old_score": 0.937,
+      "percentage_change": -0.26680896478121663,
+      "raw_delta": "-0.25",
+      "raw_new_score": "93.45%",
+      "raw_old_score": "93.70%",
+      "row_number": "24"
+    },
+    {
+      "date": "2025-04-08",
+      "delta": -0.0003,
+      "new_score": 0.937,
+      "old_score": 0.9373999999999999,
+      "percentage_change": -0.03200341369746106,
+      "raw_delta": "-0.03",
+      "raw_new_score": "93.70%",
+      "raw_old_score": "93.74%",
+      "row_number": "25"
+    },
+    {
+      "date": "2025-04-04",
+      "delta": 0.0051,
+      "new_score": 0.9373999999999999,
+      "old_score": 0.9322,
+      "percentage_change": 0.5470928985196309,
+      "raw_delta": "+0.51",
+      "raw_new_score": "93.74%",
+      "raw_old_score": "93.22%",
+      "row_number": "26"
+    },
+    {
+      "date": "2025-03-30",
+      "delta": -0.0015,
+      "new_score": 0.9322,
+      "old_score": 0.9338,
+      "percentage_change": -0.16063396872992075,
+      "raw_delta": "-0.15",
+      "raw_new_score": "93.22%",
+      "raw_old_score": "93.38%",
+      "row_number": "27"
+    },
+    {
+      "date": "2025-03-29",
+      "delta": 0.0015,
+      "new_score": 0.9338,
+      "old_score": 0.9322,
+      "percentage_change": 0.16090967603518558,
+      "raw_delta": "+0.15",
+      "raw_new_score": "93.38%",
+      "raw_old_score": "93.22%",
+      "row_number": "28"
+    },
+    {
+      "date": "2025-03-27",
+      "delta": 0.0034999999999999996,
+      "new_score": 0.9322,
+      "old_score": 0.9287000000000001,
+      "percentage_change": 0.37687089479918157,
+      "raw_delta": "+0.35",
+      "raw_new_score": "93.22%",
+      "raw_old_score": "92.87%",
+      "row_number": "29"
+    }
+  ],
+  "CVE-2025-0112": [
+    {
+      "date": "2025-07-19",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-07-11",
+      "delta": -0.0001,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": -50.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-06-21",
+      "delta": 0.0001,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 50.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-04-28",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "4"
+    },
+    {
+      "date": "2025-03-23",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0001,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.01%",
+      "row_number": "5"
+    },
+    {
+      "date": "2025-03-17",
+      "delta": -0.0003,
+      "new_score": 0.0001,
+      "old_score": 0.0004,
+      "percentage_change": -74.99999999999999,
+      "raw_delta": "-0.03",
+      "raw_new_score": "0.01%",
+      "raw_old_score": "0.04%",
+      "row_number": "6"
+    }
+  ],
+  "CVE-2025-0113": [
+    {
+      "date": "2025-07-23",
+      "delta": 9.999999999999994e-05,
+      "new_score": 0.0008,
+      "old_score": 0.0007000000000000001,
+      "percentage_change": 14.285714285714274,
+      "raw_delta": "+0.02",
+      "raw_new_score": "0.08%",
+      "raw_old_score": "0.07%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-07-12",
+      "delta": 0.0001,
+      "new_score": 0.0007000000000000001,
+      "old_score": 0.0006,
+      "percentage_change": 16.666666666666668,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.07%",
+      "raw_old_score": "0.06%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-07-11",
+      "delta": -0.0002,
+      "new_score": 0.0006,
+      "old_score": 0.0008,
+      "percentage_change": -25.0,
+      "raw_delta": "-0.02",
+      "raw_new_score": "0.06%",
+      "raw_old_score": "0.08%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-07-04",
+      "delta": 0.0004,
+      "new_score": 0.0008,
+      "old_score": 0.0004,
+      "percentage_change": 100.0,
+      "raw_delta": "+0.03",
+      "raw_new_score": "0.08%",
+      "raw_old_score": "0.04%",
+      "row_number": "4"
+    },
+    {
+      "date": "2025-07-01",
+      "delta": -0.0004,
+      "new_score": 0.0004,
+      "old_score": 0.0008,
+      "percentage_change": -50.0,
+      "raw_delta": "-0.03",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.08%",
+      "row_number": "5"
+    },
+    {
+      "date": "2025-06-26",
+      "delta": 0.0004,
+      "new_score": 0.0008,
+      "old_score": 0.0004,
+      "percentage_change": 100.0,
+      "raw_delta": "+0.03",
+      "raw_new_score": "0.08%",
+      "raw_old_score": "0.04%",
+      "row_number": "6"
+    },
+    {
+      "date": "2025-06-14",
+      "delta": 0.0001,
+      "new_score": 0.0004,
+      "old_score": 0.0003,
+      "percentage_change": 33.333333333333336,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.03%",
+      "row_number": "7"
+    },
+    {
+      "date": "2025-04-21",
+      "delta": 0.0,
+      "new_score": 0.0003,
+      "old_score": 0.0003,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.03%",
+      "row_number": "8"
+    },
+    {
+      "date": "2025-03-30",
+      "delta": 0.0,
+      "new_score": 0.0003,
+      "old_score": 0.0003,
+      "percentage_change": 0.0,
+      "raw_delta": "0.00",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.03%",
+      "row_number": "9"
+    },
+    {
+      "date": "2025-03-29",
+      "delta": 0.0,
+      "new_score": 0.0003,
+      "old_score": 0.0003,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.03%",
+      "row_number": "10"
+    },
+    {
+      "date": "2025-03-17",
+      "delta": -0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0004,
+      "percentage_change": -25.0,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.04%",
+      "row_number": "11"
+    }
+  ],
+  "CVE-2025-0114": [
+    {
+      "date": "2025-07-12",
+      "delta": 0.0003,
+      "new_score": 0.0008,
+      "old_score": 0.0005,
+      "percentage_change": 60.0,
+      "raw_delta": "+0.03",
+      "raw_new_score": "0.08%",
+      "raw_old_score": "0.05%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-05-19",
+      "delta": 0.0,
+      "new_score": 0.0005,
+      "old_score": 0.0004,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.04%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-04-15",
+      "delta": 0.0001,
+      "new_score": 0.0004,
+      "old_score": 0.0003,
+      "percentage_change": 33.333333333333336,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.03%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-04-13",
+      "delta": 0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0002,
+      "percentage_change": 50.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.02%",
+      "row_number": "4"
+    },
+    {
+      "date": "2025-03-30",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "5"
+    },
+    {
+      "date": "2025-03-29",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "6"
+    },
+    {
+      "date": "2025-03-20",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "7"
+    },
+    {
+      "date": "2025-03-18",
+      "delta": 0.0001,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 50.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "8"
+    },
+    {
+      "date": "2025-03-17",
+      "delta": -0.0003,
+      "new_score": 0.0002,
+      "old_score": 0.0004,
+      "percentage_change": -74.99999999999999,
+      "raw_delta": "-0.03",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.04%",
+      "row_number": "9"
+    }
+  ],
+  "CVE-2025-0115": [
+    {
+      "date": "2025-07-12",
+      "delta": 0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0002,
+      "percentage_change": 50.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.02%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-05-19",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-05-06",
+      "delta": -0.0001,
+      "new_score": 0.0002,
+      "old_score": 0.0003,
+      "percentage_change": -33.333333333333336,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.03%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-05-02",
+      "delta": 0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0002,
+      "percentage_change": 50.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.02%",
+      "row_number": "4"
+    },
+    {
+      "date": "2025-04-15",
+      "delta": 0.0001,
+      "new_score": 0.0002,
+      "old_score": 0.0001,
+      "percentage_change": 100.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.01%",
+      "row_number": "5"
+    },
+    {
+      "date": "2025-03-17",
+      "delta": -0.0003,
+      "new_score": 0.0001,
+      "old_score": 0.0004,
+      "percentage_change": -74.99999999999999,
+      "raw_delta": "-0.03",
+      "raw_new_score": "0.01%",
+      "raw_old_score": "0.04%",
+      "row_number": "6"
+    }
+  ],
+  "CVE-2025-0116": [
+    {
+      "date": "2025-07-12",
+      "delta": 0.0003,
+      "new_score": 0.0005,
+      "old_score": 0.0002,
+      "percentage_change": 149.99999999999997,
+      "raw_delta": "+0.03",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.02%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-04-23",
+      "delta": -0.0001,
+      "new_score": 0.0002,
+      "old_score": 0.0003,
+      "percentage_change": -33.333333333333336,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.03%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-04-13",
+      "delta": 0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0002,
+      "percentage_change": 50.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.02%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-04-02",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "4"
+    },
+    {
+      "date": "2025-03-31",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "5"
+    },
+    {
+      "date": "2025-03-30",
+      "delta": -0.0001,
+      "new_score": 0.0002,
+      "old_score": 0.0003,
+      "percentage_change": -33.333333333333336,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.03%",
+      "row_number": "6"
+    },
+    {
+      "date": "2025-03-29",
+      "delta": 0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0002,
+      "percentage_change": 50.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.02%",
+      "row_number": "7"
+    },
+    {
+      "date": "2025-03-18",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "8"
+    },
+    {
+      "date": "2025-03-17",
+      "delta": -0.0003,
+      "new_score": 0.0002,
+      "old_score": 0.0004,
+      "percentage_change": -74.99999999999999,
+      "raw_delta": "-0.03",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.04%",
+      "row_number": "9"
+    }
+  ],
+  "CVE-2025-0117": [
+    {
+      "date": "2025-07-12",
+      "delta": 0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0002,
+      "percentage_change": 50.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.02%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-05-19",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-04-13",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-03-17",
+      "delta": -0.0003,
+      "new_score": 0.0002,
+      "old_score": 0.0004,
+      "percentage_change": -74.99999999999999,
+      "raw_delta": "-0.03",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.04%",
+      "row_number": "4"
+    }
+  ],
+  "CVE-2025-0118": [
+    {
+      "date": "2025-07-12",
+      "delta": 0.0004,
+      "new_score": 0.0013,
+      "old_score": 0.0009,
+      "percentage_change": 44.44444444444445,
+      "raw_delta": "+0.04",
+      "raw_new_score": "0.13%",
+      "raw_old_score": "0.09%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-06-28",
+      "delta": -0.0002,
+      "new_score": 0.0009,
+      "old_score": 0.001,
+      "percentage_change": -20.0,
+      "raw_delta": "-0.02",
+      "raw_new_score": "0.09%",
+      "raw_old_score": "0.10%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-05-19",
+      "delta": 0.0001,
+      "new_score": 0.001,
+      "old_score": 0.001,
+      "percentage_change": 10.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.10%",
+      "raw_old_score": "0.10%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-04-13",
+      "delta": 0.0001,
+      "new_score": 0.001,
+      "old_score": 0.0009,
+      "percentage_change": 11.111111111111112,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.10%",
+      "raw_old_score": "0.09%",
+      "row_number": "4"
+    },
+    {
+      "date": "2025-03-30",
+      "delta": -0.00010000000000000005,
+      "new_score": 0.0009,
+      "old_score": 0.001,
+      "percentage_change": -10.000000000000005,
+      "raw_delta": "0.00",
+      "raw_new_score": "0.09%",
+      "raw_old_score": "0.10%",
+      "row_number": "5"
+    },
+    {
+      "date": "2025-03-29",
+      "delta": 0.00010000000000000005,
+      "new_score": 0.001,
+      "old_score": 0.0009,
+      "percentage_change": 11.111111111111116,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.10%",
+      "raw_old_score": "0.09%",
+      "row_number": "6"
+    },
+    {
+      "date": "2025-03-20",
+      "delta": -0.0004,
+      "new_score": 0.0009,
+      "old_score": 0.0013,
+      "percentage_change": -30.76923076923077,
+      "raw_delta": "-0.04",
+      "raw_new_score": "0.09%",
+      "raw_old_score": "0.13%",
+      "row_number": "7"
+    },
+    {
+      "date": "2025-03-18",
+      "delta": 0.0003,
+      "new_score": 0.0013,
+      "old_score": 0.001,
+      "percentage_change": 30.0,
+      "raw_delta": "+0.03",
+      "raw_new_score": "0.13%",
+      "raw_old_score": "0.10%",
+      "row_number": "8"
+    },
+    {
+      "date": "2025-03-17",
+      "delta": 0.0006000000000000001,
+      "new_score": 0.001,
+      "old_score": 0.0004,
+      "percentage_change": 150.0,
+      "raw_delta": "+0.05",
+      "raw_new_score": "0.10%",
+      "raw_old_score": "0.04%",
+      "row_number": "9"
+    }
+  ],
+  "CVE-2025-0120": [
+    {
+      "date": "2025-06-28",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-06-18",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-05-13",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-04-17",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "4"
+    }
+  ],
+  "CVE-2025-0121": [
+    {
+      "date": "2025-06-18",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-05-13",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-04-17",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0001,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.01%",
+      "row_number": "3"
+    }
+  ],
+  "CVE-2025-0122": [
+    {
+      "date": "2025-06-18",
+      "delta": 0.0,
+      "new_score": 0.0003,
+      "old_score": 0.0003,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.03%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-05-13",
+      "delta": 0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0002,
+      "percentage_change": 50.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.02%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-04-17",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0001,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.01%",
+      "row_number": "3"
+    }
+  ],
+  "CVE-2025-0123": [
+    {
+      "date": "2025-07-13",
+      "delta": 0.0,
+      "new_score": 0.0001,
+      "old_score": 0.0001,
+      "percentage_change": 0.0,
+      "raw_delta": "0.00",
+      "raw_new_score": "0.01%",
+      "raw_old_score": "0.01%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-05-13",
+      "delta": 0.0,
+      "new_score": 0.0001,
+      "old_score": 0.0001,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.01%",
+      "raw_old_score": "0.01%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-04-17",
+      "delta": 0.0,
+      "new_score": 0.0001,
+      "old_score": 0.0001,
+      "percentage_change": 0.0,
+      "raw_delta": "0.00",
+      "raw_new_score": "0.01%",
+      "raw_old_score": "0.01%",
+      "row_number": "3"
+    }
+  ],
+  "CVE-2025-0124": [
+    {
+      "date": "2025-06-18",
+      "delta": 0.0,
+      "new_score": 0.0009,
+      "old_score": 0.0009,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.09%",
+      "raw_old_score": "0.09%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-05-13",
+      "delta": 0.0001,
+      "new_score": 0.0009,
+      "old_score": 0.0008,
+      "percentage_change": 12.5,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.09%",
+      "raw_old_score": "0.08%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-04-17",
+      "delta": 0.0002,
+      "new_score": 0.0008,
+      "old_score": 0.0006,
+      "percentage_change": 33.333333333333336,
+      "raw_delta": "+0.02",
+      "raw_new_score": "0.08%",
+      "raw_old_score": "0.06%",
+      "row_number": "3"
+    }
+  ],
+  "CVE-2025-0125": [
+    {
+      "date": "2025-06-18",
+      "delta": 0.00010000000000000015,
+      "new_score": 0.0007000000000000001,
+      "old_score": 0.0006,
+      "percentage_change": 16.666666666666693,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.07%",
+      "raw_old_score": "0.06%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-05-13",
+      "delta": 0.0001,
+      "new_score": 0.0006,
+      "old_score": 0.0006,
+      "percentage_change": 16.666666666666668,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.06%",
+      "raw_old_score": "0.06%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-04-17",
+      "delta": 0.0001,
+      "new_score": 0.0006,
+      "old_score": 0.0004,
+      "percentage_change": 25.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.06%",
+      "raw_old_score": "0.04%",
+      "row_number": "3"
+    }
+  ],
+  "CVE-2025-0126": [
+    {
+      "date": "2025-06-18",
+      "delta": 0.0,
+      "new_score": 0.0006,
+      "old_score": 0.0006,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.06%",
+      "raw_old_score": "0.06%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-05-13",
+      "delta": 0.0001,
+      "new_score": 0.0006,
+      "old_score": 0.0005,
+      "percentage_change": 20.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.06%",
+      "raw_old_score": "0.05%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-04-17",
+      "delta": 0.0001,
+      "new_score": 0.0005,
+      "old_score": 0.0004,
+      "percentage_change": 25.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.04%",
+      "row_number": "3"
+    }
+  ],
+  "CVE-2025-0127": [
+    {
+      "date": "2025-06-18",
+      "delta": 0.0001,
+      "new_score": 0.0018,
+      "old_score": 0.0017000000000000001,
+      "percentage_change": 5.88235294117647,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.18%",
+      "raw_old_score": "0.17%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-05-13",
+      "delta": -0.0001,
+      "new_score": 0.0017000000000000001,
+      "old_score": 0.0018,
+      "percentage_change": -5.555555555555556,
+      "raw_delta": "-0.01",
+      "raw_new_score": "0.17%",
+      "raw_old_score": "0.18%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-04-17",
+      "delta": 0.0005,
+      "new_score": 0.0018,
+      "old_score": 0.0013,
+      "percentage_change": 38.46153846153847,
+      "raw_delta": "+0.05",
+      "raw_new_score": "0.18%",
+      "raw_old_score": "0.13%",
+      "row_number": "3"
+    }
+  ],
+  "CVE-2025-0128": [
+    {
+      "date": "2025-06-18",
+      "delta": 0.0002,
+      "new_score": 0.0006,
+      "old_score": 0.0004,
+      "percentage_change": 50.0,
+      "raw_delta": "+0.02",
+      "raw_new_score": "0.06%",
+      "raw_old_score": "0.04%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-05-13",
+      "delta": 0.0001,
+      "new_score": 0.0004,
+      "old_score": 0.0003,
+      "percentage_change": 33.333333333333336,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.03%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-04-15",
+      "delta": 0.0001,
+      "new_score": 0.0003,
+      "old_score": 0.0002,
+      "percentage_change": 50.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.03%",
+      "raw_old_score": "0.02%",
+      "row_number": "3"
+    }
+  ],
+  "CVE-2025-0129": [
+    {
+      "date": "2025-06-14",
+      "delta": 0.0,
+      "new_score": 0.0002,
+      "old_score": 0.0002,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.02%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-05-21",
+      "delta": -0.0004,
+      "new_score": 0.0002,
+      "old_score": 0.0006,
+      "percentage_change": -66.66666666666667,
+      "raw_delta": "-0.04",
+      "raw_new_score": "0.02%",
+      "raw_old_score": "0.06%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-05-13",
+      "delta": 0.0001,
+      "new_score": 0.0006,
+      "old_score": 0.0005,
+      "percentage_change": 20.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.06%",
+      "raw_old_score": "0.05%",
+      "row_number": "3"
+    },
+    {
+      "date": "2025-04-17",
+      "delta": 0.0001,
+      "new_score": 0.0005,
+      "old_score": 0.0004,
+      "percentage_change": 25.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.04%",
+      "row_number": "4"
+    },
+    {
+      "date": "2025-04-16",
+      "delta": 0.0,
+      "new_score": 0.0004,
+      "old_score": 0.0004,
+      "percentage_change": 0.0,
+      "raw_delta": "0.00",
+      "raw_new_score": "0.04%",
+      "raw_old_score": "0.04%",
+      "row_number": "5"
+    }
+  ],
+  "CVE-2025-0130": [
+    {
+      "date": "2025-07-21",
+      "delta": 0.0,
+      "new_score": 0.0007000000000000001,
+      "old_score": 0.0007000000000000001,
+      "percentage_change": 0.0,
+      "raw_delta": "+0.00",
+      "raw_new_score": "0.07%",
+      "raw_old_score": "0.07%",
+      "row_number": "1"
+    },
+    {
+      "date": "2025-06-15",
+      "delta": 0.0002,
+      "new_score": 0.0007000000000000001,
+      "old_score": 0.0005,
+      "percentage_change": 40.0,
+      "raw_delta": "+0.02",
+      "raw_new_score": "0.07%",
+      "raw_old_score": "0.05%",
+      "row_number": "2"
+    },
+    {
+      "date": "2025-05-20",
+      "delta": 0.0001,
+      "new_score": 0.0005,
+      "old_score": 0.0004,
+      "percentage_change": 25.0,
+      "raw_delta": "+0.01",
+      "raw_new_score": "0.05%",
+      "raw_old_score": "0.04%",
+      "row_number": "3"
+    }
+  ]
+}

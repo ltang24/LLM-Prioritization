@@ -1,0 +1,1147 @@
+{
+  "total": 165,
+  "success": 148,
+  "fallback": 17,
+  "failed": 0,
+  "skipped": 0,
+  "results": [
+    {
+      "cve": "CVE-2025-0001",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0001_enhanced_report.txt",
+      "chars": 1946,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-0015",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0015_enhanced_report.txt",
+      "chars": 2846,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0035",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0035_enhanced_report.txt",
+      "chars": 1783,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-0037",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0037_enhanced_report.txt",
+      "chars": 2910,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0049",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0049_enhanced_report.txt",
+      "chars": 2476,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0050",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0050_enhanced_report.txt",
+      "chars": 2560,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0051",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0051_enhanced_report.txt",
+      "chars": 2276,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0052",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0052_enhanced_report.txt",
+      "chars": 2299,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0053",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0053_enhanced_report.txt",
+      "chars": 1606,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-0054",
+      "status": "fallback",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0054_enhanced_report.txt",
+      "chars": 4850
+    },
+    {
+      "cve": "CVE-2025-0055",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0055_enhanced_report.txt",
+      "chars": 2387,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0056",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0056_enhanced_report.txt",
+      "chars": 2206,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0057",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0057_enhanced_report.txt",
+      "chars": 2199,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-0058",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0058_enhanced_report.txt",
+      "chars": 2234,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0059",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0059_enhanced_report.txt",
+      "chars": 2255,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0060",
+      "status": "fallback",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0060_enhanced_report.txt",
+      "chars": 2856
+    },
+    {
+      "cve": "CVE-2025-0061",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0061_enhanced_report.txt",
+      "chars": 2242,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0062",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0062_enhanced_report.txt",
+      "chars": 2501,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0063",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0063_enhanced_report.txt",
+      "chars": 2017,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-0064",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0064_enhanced_report.txt",
+      "chars": 2121,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0065",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0065_enhanced_report.txt",
+      "chars": 2342,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0066",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0066_enhanced_report.txt",
+      "chars": 1868,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-0067",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0067_enhanced_report.txt",
+      "chars": 1940,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-0068",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0068_enhanced_report.txt",
+      "chars": 1884,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-0069",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0069_enhanced_report.txt",
+      "chars": 2379,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0070",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0070_enhanced_report.txt",
+      "chars": 2437,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0071",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0071_enhanced_report.txt",
+      "chars": 2604,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0072",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0072_enhanced_report.txt",
+      "chars": 1786,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-0073",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0073_enhanced_report.txt",
+      "chars": 2533,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0101",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0101_enhanced_report.txt",
+      "chars": 2622,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0103",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0103_enhanced_report.txt",
+      "chars": 2537,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0104",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0104_enhanced_report.txt",
+      "chars": 2280,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0105",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0105_enhanced_report.txt",
+      "chars": 2464,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0106",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0106_enhanced_report.txt",
+      "chars": 2612,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0107",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0107_enhanced_report.txt",
+      "chars": 2499,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0108",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0108_enhanced_report.txt",
+      "chars": 2697,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0109",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0109_enhanced_report.txt",
+      "chars": 2643,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0110",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0110_enhanced_report.txt",
+      "chars": 2237,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0111",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0111_enhanced_report.txt",
+      "chars": 2270,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0112",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0112_enhanced_report.txt",
+      "chars": 2014,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-0113",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0113_enhanced_report.txt",
+      "chars": 2072,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-0114",
+      "status": "fallback",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0114_enhanced_report.txt",
+      "chars": 4845
+    },
+    {
+      "cve": "CVE-2025-0115",
+      "status": "fallback",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0115_enhanced_report.txt",
+      "chars": 5118
+    },
+    {
+      "cve": "CVE-2025-0116",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0116_enhanced_report.txt",
+      "chars": 2158,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0117",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0117_enhanced_report.txt",
+      "chars": 2295,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0118",
+      "status": "fallback",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0118_enhanced_report.txt",
+      "chars": 2991
+    },
+    {
+      "cve": "CVE-2025-0119",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0119_enhanced_report.txt",
+      "chars": 2159,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0120",
+      "status": "fallback",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0120_enhanced_report.txt",
+      "chars": 2864
+    },
+    {
+      "cve": "CVE-2025-0121",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0121_enhanced_report.txt",
+      "chars": 1886,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-0122",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0122_enhanced_report.txt",
+      "chars": 2220,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0123",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0123_enhanced_report.txt",
+      "chars": 2613,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0124",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0124_enhanced_report.txt",
+      "chars": 2691,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0125",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0125_enhanced_report.txt",
+      "chars": 1800,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-0126",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0126_enhanced_report.txt",
+      "chars": 2259,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0127",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0127_enhanced_report.txt",
+      "chars": 2257,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0128",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0128_enhanced_report.txt",
+      "chars": 1792,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-0129",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0129_enhanced_report.txt",
+      "chars": 1707,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-0130",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0130_enhanced_report.txt",
+      "chars": 2350,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0132",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0132_enhanced_report.txt",
+      "chars": 2244,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0133",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0133_enhanced_report.txt",
+      "chars": 1993,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-0159",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0159_enhanced_report.txt",
+      "chars": 2503,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0162",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0162_enhanced_report.txt",
+      "chars": 2214,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0168",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0168_enhanced_report.txt",
+      "chars": 2417,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0170",
+      "status": "fallback",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0170_enhanced_report.txt",
+      "chars": 2914
+    },
+    {
+      "cve": "CVE-2025-0177",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0177_enhanced_report.txt",
+      "chars": 2575,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0181",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0181_enhanced_report.txt",
+      "chars": 2631,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0182",
+      "status": "fallback",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0182_enhanced_report.txt",
+      "chars": 4875
+    },
+    {
+      "cve": "CVE-2025-0185",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0185_enhanced_report.txt",
+      "chars": 2563,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0187",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0187_enhanced_report.txt",
+      "chars": 2105,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0189",
+      "status": "fallback",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0189_enhanced_report.txt",
+      "chars": 4787
+    },
+    {
+      "cve": "CVE-2025-0190",
+      "status": "fallback",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0190_enhanced_report.txt",
+      "chars": 2871
+    },
+    {
+      "cve": "CVE-2025-0191",
+      "status": "fallback",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0191_enhanced_report.txt",
+      "chars": 2866
+    },
+    {
+      "cve": "CVE-2025-0242",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0242_enhanced_report.txt",
+      "chars": 2503,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0247",
+      "status": "fallback",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0247_enhanced_report.txt",
+      "chars": 2766
+    },
+    {
+      "cve": "CVE-2025-0282",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0282_enhanced_report.txt",
+      "chars": 2288,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0291",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0291_enhanced_report.txt",
+      "chars": 1890,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-0308",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0308_enhanced_report.txt",
+      "chars": 2246,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0312",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0312_enhanced_report.txt",
+      "chars": 2124,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0315",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0315_enhanced_report.txt",
+      "chars": 1744,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-0316",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0316_enhanced_report.txt",
+      "chars": 2374,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0317",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0317_enhanced_report.txt",
+      "chars": 2212,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0328",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0328_enhanced_report.txt",
+      "chars": 2377,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0349",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0349_enhanced_report.txt",
+      "chars": 1886,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-0364",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0364_enhanced_report.txt",
+      "chars": 2611,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0366",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0366_enhanced_report.txt",
+      "chars": 2244,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0394",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0394_enhanced_report.txt",
+      "chars": 2192,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0411",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0411_enhanced_report.txt",
+      "chars": 2207,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-0412",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0412_enhanced_report.txt",
+      "chars": 1600,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-0423",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0423_enhanced_report.txt",
+      "chars": 2009,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-0428",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0428_enhanced_report.txt",
+      "chars": 2601,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0429",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0429_enhanced_report.txt",
+      "chars": 1856,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-0434",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0434_enhanced_report.txt",
+      "chars": 1874,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-0436",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0436_enhanced_report.txt",
+      "chars": 2241,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0438",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0438_enhanced_report.txt",
+      "chars": 1974,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0443",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0443_enhanced_report.txt",
+      "chars": 2307,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0444",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0444_enhanced_report.txt",
+      "chars": 2358,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0445",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0445_enhanced_report.txt",
+      "chars": 2464,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0447",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0447_enhanced_report.txt",
+      "chars": 1783,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-0451",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0451_enhanced_report.txt",
+      "chars": 2379,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0455",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0455_enhanced_report.txt",
+      "chars": 1878,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-0456",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0456_enhanced_report.txt",
+      "chars": 2447,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0457",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0457_enhanced_report.txt",
+      "chars": 2889,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0470",
+      "status": "fallback",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0470_enhanced_report.txt",
+      "chars": 2950
+    },
+    {
+      "cve": "CVE-2025-0471",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0471_enhanced_report.txt",
+      "chars": 2573,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0475",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0475_enhanced_report.txt",
+      "chars": 1875,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-0511",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0511_enhanced_report.txt",
+      "chars": 2420,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0520",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0520_enhanced_report.txt",
+      "chars": 1925,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-0521",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0521_enhanced_report.txt",
+      "chars": 2119,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0528",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0528_enhanced_report.txt",
+      "chars": 2200,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0565",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0565_enhanced_report.txt",
+      "chars": 1642,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-0572",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0572_enhanced_report.txt",
+      "chars": 2659,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0573",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0573_enhanced_report.txt",
+      "chars": 2462,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0674",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0674_enhanced_report.txt",
+      "chars": 2838,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0725",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0725_enhanced_report.txt",
+      "chars": 2410,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0798",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0798_enhanced_report.txt",
+      "chars": 2414,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0802",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0802_enhanced_report.txt",
+      "chars": 2661,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0847",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0847_enhanced_report.txt",
+      "chars": 2239,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0849",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0849_enhanced_report.txt",
+      "chars": 2488,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0868",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0868_enhanced_report.txt",
+      "chars": 2069,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0924",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0924_enhanced_report.txt",
+      "chars": 2719,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0967",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0967_enhanced_report.txt",
+      "chars": 2544,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-0994",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-0994_enhanced_report.txt",
+      "chars": 2823,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-1015",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1015_enhanced_report.txt",
+      "chars": 2370,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-1035",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1035_enhanced_report.txt",
+      "chars": 2856,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-1094",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1094_enhanced_report.txt",
+      "chars": 2262,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-1098",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1098_enhanced_report.txt",
+      "chars": 2273,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-1229",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1229_enhanced_report.txt",
+      "chars": 2320,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-1316",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1316_enhanced_report.txt",
+      "chars": 1976,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-1323",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1323_enhanced_report.txt",
+      "chars": 2069,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-1338",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1338_enhanced_report.txt",
+      "chars": 2571,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-1339",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1339_enhanced_report.txt",
+      "chars": 2003,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-1369",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1369_enhanced_report.txt",
+      "chars": 2577,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-1370",
+      "status": "fallback",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1370_enhanced_report.txt",
+      "chars": 2929
+    },
+    {
+      "cve": "CVE-2025-1448",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1448_enhanced_report.txt",
+      "chars": 2065,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-1536",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1536_enhanced_report.txt",
+      "chars": 1946,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-1546",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1546_enhanced_report.txt",
+      "chars": 1811,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-1593",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1593_enhanced_report.txt",
+      "chars": 2754,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-1596",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1596_enhanced_report.txt",
+      "chars": 2210,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-1608",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1608_enhanced_report.txt",
+      "chars": 2566,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-1609",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1609_enhanced_report.txt",
+      "chars": 2510,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-1610",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1610_enhanced_report.txt",
+      "chars": 2340,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-1616",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1616_enhanced_report.txt",
+      "chars": 2485,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-1661",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1661_enhanced_report.txt",
+      "chars": 1899,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-1676",
+      "status": "fallback",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1676_enhanced_report.txt",
+      "chars": 4787
+    },
+    {
+      "cve": "CVE-2025-1716",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1716_enhanced_report.txt",
+      "chars": 2486,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-1743",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1743_enhanced_report.txt",
+      "chars": 1551,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-1800",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1800_enhanced_report.txt",
+      "chars": 1933,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-1819",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1819_enhanced_report.txt",
+      "chars": 2417,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-1829",
+      "status": "fallback",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1829_enhanced_report.txt",
+      "chars": 2931
+    },
+    {
+      "cve": "CVE-2025-1845",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1845_enhanced_report.txt",
+      "chars": 1864,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-1889",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1889_enhanced_report.txt",
+      "chars": 2319,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-1946",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1946_enhanced_report.txt",
+      "chars": 2626,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-1947",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1947_enhanced_report.txt",
+      "chars": 2029,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-1974",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-1974_enhanced_report.txt",
+      "chars": 2293,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-2010",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-2010_enhanced_report.txt",
+      "chars": 2065,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-2011",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-2011_enhanced_report.txt",
+      "chars": 2178,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-2094",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-2094_enhanced_report.txt",
+      "chars": 2360,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-2095",
+      "status": "fallback",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-2095_enhanced_report.txt",
+      "chars": 2826
+    },
+    {
+      "cve": "CVE-2025-2096",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-2096_enhanced_report.txt",
+      "chars": 1677,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-2129",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-2129_enhanced_report.txt",
+      "chars": 1846,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-2264",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-2264_enhanced_report.txt",
+      "chars": 2302,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-2292",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-2292_enhanced_report.txt",
+      "chars": 1860,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-3249",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-3249_enhanced_report.txt",
+      "chars": 1776,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "cve": "CVE-2025-3544",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-3544_enhanced_report.txt",
+      "chars": 2429,
+      "model": "gpt-4o"
+    },
+    {
+      "cve": "CVE-2025-4664",
+      "status": "success",
+      "output": "/home/xiaoqun/RQ3_Experimants/enhanced_reports/CVE-2025-4664_enhanced_report.txt",
+      "chars": 2345,
+      "model": "gpt-4o"
+    }
+  ]
+}

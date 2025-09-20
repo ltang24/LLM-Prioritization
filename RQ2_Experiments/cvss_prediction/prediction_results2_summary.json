@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-07-09T12:42:25.532958",
+  "method": "Direct Score Prediction",
+  "dataset_info": {
+    "total_cve_ids": 101,
+    "successful_predictions": 99,
+    "failed_predictions": 0,
+    "success_rate": 100.0
+  },
+  "score_prediction_metrics": {
+    "rmse": 1.5157756290347717,
+    "mae": 0.991919191919192,
+    "correlation": 0.7299240131765287
+  },
+  "score_distribution": {
+    "0.0-3.0": {
+      "ground_truth": 1,
+      "predicted": 0
+    },
+    "3.0-6.0": {
+      "ground_truth": 25,
+      "predicted": 7
+    },
+    "7.0-10.0": {
+      "ground_truth": 59,
+      "predicted": 59
+    },
+    "9.0-10.0": {
+      "ground_truth": 20,
+      "predicted": 26
+    }
+  },
+  "source_distribution": {
+    "NIST": 52,
+    "Wordfence": 20,
+    "huntr.dev": 2,
+    "Red Hat, Inc.": 2,
+    "VulDB": 4,
+    "TWCERT/CC": 11,
+    "134c704f-9b21-4f2e-91b3-4a467353bcc0": 3,
+    "Hitachi Energy": 2,
+    "Fortra": 1,
+    "Forescout": 2,
+    "Indian Computer Emergency Response Team (CERT-In)": 1,
+    "Progress Software Corporation": 1
+  }
+}

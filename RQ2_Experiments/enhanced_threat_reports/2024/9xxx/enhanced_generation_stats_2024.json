@@ -1,0 +1,4768 @@
+{
+  "total_files": 912,
+  "processed": 912,
+  "successful": 99,
+  "failed": 813,
+  "skipped": 0,
+  "success_rate": 10.855263157894738,
+  "results": [
+    {
+      "cve_id": "CVE-2024-9000",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9001",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9002",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9003",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9004",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9005",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9006",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9007",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9008",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9009",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9011",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9014",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9018",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9019",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9020",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9021",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9022",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9023",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9024",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9025",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9026",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9027",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9028",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9029",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9030",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9031",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9032",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9033",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9034",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9035",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9036",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9037",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9038",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9039",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9040",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9041",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9042",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9043",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9044",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9046",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9047",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9048",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9049",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9050",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9051",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9053",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9054",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9055",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9056",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9057",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9058",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9059",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9060",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9061",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9062",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9064",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9065",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9066",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9067",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9068",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9069",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9070",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9071",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9072",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9073",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9074",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9075",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9076",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9077",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9078",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9079",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9080",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9081",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9082",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9083",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9084",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9085",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9086",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9087",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9088",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9089",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9090",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9091",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9092",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9093",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9094",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9095",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9096",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9097",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9098",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9099",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9100",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9101",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9102",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9103",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9104",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9105",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9106",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9107",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9108",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9109",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9110",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9111",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9112",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9113",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9114",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9115",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9116",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9117",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9118",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9119",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9120",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9121",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9122",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9123",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9124",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9125",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9127",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9129",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9130",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9131",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9132",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9133",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9134",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9135",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9136",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9137",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9138",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9139",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9140",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9141",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9142",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9143",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9145",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9146",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9147",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9148",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9149",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9150",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9154",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9155",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9156",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9157",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9158",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9159",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9160",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9161",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9162",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9163",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9164",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9165",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9166",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9167",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9169",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9170",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9172",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9173",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9174",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9177",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9178",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9180",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9182",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9184",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9186",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9187",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9188",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9189",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9191",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9192",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9193",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9194",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9195",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9197",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9198",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9199",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9200",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9201",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9202",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9203",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9204",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9205",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9206",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9207",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9208",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9209",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9210",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9211",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9212",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9213",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9214",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9215",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9216",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9217",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9218",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9219",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9220",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9221",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9222",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9223",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9224",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9225",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9226",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9227",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9228",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9229",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9230",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9231",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9232",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9233",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9234",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9235",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9236",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9237",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9238",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9239",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9240",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9241",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9242",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9243",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9244",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9245",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9246",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9247",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9248",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9249",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9250",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9251",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9252",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9253",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9254",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9255",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9256",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9257",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9258",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9259",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9260",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9261",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9262",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9263",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9264",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9265",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9266",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9267",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9269",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9270",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9271",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9272",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9274",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9275",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9276",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9277",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9278",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9279",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9280",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9281",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9282",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9283",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9284",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9285",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9286",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9287",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9289",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9290",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9291",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9292",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9293",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9294",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9295",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9296",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9297",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9298",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9299",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9300",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9301",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9302",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9304",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9305",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9306",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9307",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9308",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9309",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9310",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9311",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9312",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9313",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9314",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9315",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9316",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9317",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9318",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9319",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9320",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9321",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9322",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9323",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9324",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9325",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9326",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9327",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9328",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9329",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9333",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9334",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9340",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9341",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9344",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9345",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9346",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9347",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9348",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9349",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9350",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9351",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9352",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9353",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9354",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9355",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9356",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9357",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9358",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9359",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9360",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9361",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9362",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9363",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9364",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9365",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9366",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9367",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9368",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9369",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9371",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9372",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9373",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9374",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9375",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9376",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9377",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9378",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9379",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9380",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9381",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9382",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9383",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9384",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9385",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9386",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9387",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9388",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9390",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9391",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9392",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9393",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9394",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9395",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9396",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9397",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9398",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9399",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9400",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9401",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9402",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9403",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9404",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9405",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9407",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9409",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9410",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9411",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9412",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9413",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9414",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9415",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9416",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9417",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9418",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9419",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9420",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9421",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9422",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9423",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9425",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9426",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9427",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9428",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9429",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9430",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9431",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9434",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9435",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9436",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9437",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9438",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9439",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9440",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9441",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9442",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9443",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9444",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9445",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9446",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9447",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9448",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9449",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9450",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9451",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9452",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9454",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9455",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9456",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9457",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9458",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9459",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9460",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9461",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9462",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9463",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9464",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9465",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9466",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9467",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9468",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9469",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9470",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9471",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9472",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9473",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9474",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9475",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9476",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9477",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9478",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9479",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9481",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9482",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9483",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9484",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9486",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9487",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9488",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9489",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9490",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9491",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9492",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9493",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9494",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9495",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9496",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9497",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9498",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9499",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9500",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9501",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9502",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9503",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9504",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9505",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9506",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9507",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9508",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9511",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9512",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9513",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9514",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9515",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9518",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9519",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9520",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9521",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9522",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9524",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9526",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9528",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9529",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9530",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9531",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9532",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9533",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9534",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9535",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9536",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9537",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9538",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9539",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9540",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9541",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9542",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9543",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9544",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9545",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9546",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9548",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9549",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9550",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9551",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9552",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9553",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9554",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9555",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9556",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9557",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9558",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9559",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9560",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9561",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9562",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9563",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9564",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9565",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9566",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9567",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9568",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9569",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9570",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9571",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9572",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9573",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9574",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9575",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9576",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9578",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9579",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9581",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9582",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9583",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9584",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9585",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9586",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9587",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9588",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9589",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9590",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9591",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9592",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9593",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9594",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9595",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9596",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9597",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9598",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9599",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9600",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9601",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9602",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9603",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9606",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9607",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9608",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9609",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9610",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9611",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9612",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9613",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9614",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9615",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9616",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9617",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9618",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9619",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9620",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9621",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9622",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9623",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9624",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9626",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9627",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9628",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9629",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9630",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9631",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9632",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9633",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9634",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9635",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9636",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9637",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9638",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9639",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9641",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9642",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9643",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9644",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9645",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9647",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9649",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9650",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9651",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9652",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9653",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9654",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9655",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9656",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9657",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9658",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9659",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9660",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9661",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9662",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9663",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9664",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9665",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9666",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9667",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9668",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9669",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9670",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9671",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9672",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9674",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9675",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9676",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9677",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9678",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9679",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9680",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9681",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9682",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9683",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9685",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9686",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9687",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9689",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9692",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9693",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9694",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9696",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9697",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9698",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9699",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9700",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9701",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9702",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9703",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9704",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9705",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9706",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9707",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9708",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9709",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9710",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9711",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9712",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9713",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9714",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9715",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9716",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9717",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9718",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9719",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9720",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9721",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9722",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9723",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9724",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9725",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9726",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9727",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9728",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9729",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9730",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9731",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9732",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9733",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9734",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9735",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9736",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9737",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9738",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9739",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9740",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9741",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9742",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9743",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9744",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9745",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9746",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9747",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9748",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9749",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9750",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9751",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9752",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9753",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9754",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9755",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9756",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9757",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9758",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9759",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9760",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9761",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9762",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9763",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9764",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9765",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9766",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9767",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9768",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9769",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9770",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9771",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9772",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9773",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9774",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9775",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9776",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9777",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9778",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9779",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9780",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9781",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9782",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9783",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9784",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9785",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9786",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9787",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9788",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9789",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9790",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9792",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9793",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9794",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9796",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9797",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9798",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9799",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9802",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9803",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9804",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9805",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9806",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9807",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9808",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9809",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9810",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9811",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9812",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9813",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9814",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9815",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9816",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9817",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9818",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9819",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9820",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9821",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9822",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9823",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9824",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9825",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9826",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9827",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9828",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9829",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9830",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9831",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9832",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9834",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9835",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9836",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9837",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9838",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9839",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9841",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9842",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9843",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9844",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9845",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9846",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9847",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9848",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9849",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9850",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9851",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9852",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9853",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9855",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9856",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9858",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9859",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9860",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9861",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9862",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9863",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9864",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9865",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9866",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9867",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9868",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9870",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9872",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9873",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9874",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9875",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9876",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9877",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9878",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9879",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9881",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9882",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9883",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9884",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9885",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9886",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9887",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9888",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9889",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9890",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9891",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9892",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9893",
+      "status": "failed",
+      "reason": "evidence_file_not_found"
+    },
+    {
+      "cve_id": "CVE-2024-9894",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9894_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2428
+    },
+    {
+      "cve_id": "CVE-2024-9895",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9895_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3202
+    },
+    {
+      "cve_id": "CVE-2024-9896",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9896_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2596
+    },
+    {
+      "cve_id": "CVE-2024-9897",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9897_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3499
+    },
+    {
+      "cve_id": "CVE-2024-9898",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9898_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3689
+    },
+    {
+      "cve_id": "CVE-2024-9900",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9900_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3014
+    },
+    {
+      "cve_id": "CVE-2024-9902",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9902_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3168
+    },
+    {
+      "cve_id": "CVE-2024-9903",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9903_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2756
+    },
+    {
+      "cve_id": "CVE-2024-9904",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9904_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2765
+    },
+    {
+      "cve_id": "CVE-2024-9905",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9905_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2766
+    },
+    {
+      "cve_id": "CVE-2024-9906",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9906_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2705
+    },
+    {
+      "cve_id": "CVE-2024-9907",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9907_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2409
+    },
+    {
+      "cve_id": "CVE-2024-9908",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9908_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2843
+    },
+    {
+      "cve_id": "CVE-2024-9909",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9909_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2605
+    },
+    {
+      "cve_id": "CVE-2024-9910",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9910_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2250
+    },
+    {
+      "cve_id": "CVE-2024-9911",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9911_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2685
+    },
+    {
+      "cve_id": "CVE-2024-9912",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9912_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2224
+    },
+    {
+      "cve_id": "CVE-2024-9913",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9913_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2604
+    },
+    {
+      "cve_id": "CVE-2024-9914",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9914_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2354
+    },
+    {
+      "cve_id": "CVE-2024-9915",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9915_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 1823
+    },
+    {
+      "cve_id": "CVE-2024-9916",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9916_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2288
+    },
+    {
+      "cve_id": "CVE-2024-9917",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9917_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2819
+    },
+    {
+      "cve_id": "CVE-2024-9918",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9918_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2793
+    },
+    {
+      "cve_id": "CVE-2024-9919",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9919_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3077
+    },
+    {
+      "cve_id": "CVE-2024-9920",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9920_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3443
+    },
+    {
+      "cve_id": "CVE-2024-9921",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9921_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3325
+    },
+    {
+      "cve_id": "CVE-2024-9922",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9922_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3127
+    },
+    {
+      "cve_id": "CVE-2024-9923",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9923_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 4007
+    },
+    {
+      "cve_id": "CVE-2024-9924",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9924_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3258
+    },
+    {
+      "cve_id": "CVE-2024-9925",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9925_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3152
+    },
+    {
+      "cve_id": "CVE-2024-9926",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9926_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3100
+    },
+    {
+      "cve_id": "CVE-2024-9927",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9927_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3613
+    },
+    {
+      "cve_id": "CVE-2024-9928",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9928_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3585
+    },
+    {
+      "cve_id": "CVE-2024-9929",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9929_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3672
+    },
+    {
+      "cve_id": "CVE-2024-9930",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9930_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3157
+    },
+    {
+      "cve_id": "CVE-2024-9931",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9931_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2909
+    },
+    {
+      "cve_id": "CVE-2024-9932",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9932_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3276
+    },
+    {
+      "cve_id": "CVE-2024-9933",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9933_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2781
+    },
+    {
+      "cve_id": "CVE-2024-9934",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9934_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2892
+    },
+    {
+      "cve_id": "CVE-2024-9935",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9935_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2744
+    },
+    {
+      "cve_id": "CVE-2024-9936",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9936_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3151
+    },
+    {
+      "cve_id": "CVE-2024-9937",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9937_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3434
+    },
+    {
+      "cve_id": "CVE-2024-9938",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9938_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3147
+    },
+    {
+      "cve_id": "CVE-2024-9939",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9939_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3179
+    },
+    {
+      "cve_id": "CVE-2024-9940",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9940_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3109
+    },
+    {
+      "cve_id": "CVE-2024-9941",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9941_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3038
+    },
+    {
+      "cve_id": "CVE-2024-9942",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9942_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3735
+    },
+    {
+      "cve_id": "CVE-2024-9943",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9943_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3386
+    },
+    {
+      "cve_id": "CVE-2024-9944",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9944_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3024
+    },
+    {
+      "cve_id": "CVE-2024-9945",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9945_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2328
+    },
+    {
+      "cve_id": "CVE-2024-9946",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9946_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 4044
+    },
+    {
+      "cve_id": "CVE-2024-9947",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9947_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3085
+    },
+    {
+      "cve_id": "CVE-2024-9949",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9949_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2516
+    },
+    {
+      "cve_id": "CVE-2024-9950",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9950_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2734
+    },
+    {
+      "cve_id": "CVE-2024-9951",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9951_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3248
+    },
+    {
+      "cve_id": "CVE-2024-9952",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9952_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2830
+    },
+    {
+      "cve_id": "CVE-2024-9953",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9953_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3855
+    },
+    {
+      "cve_id": "CVE-2024-9954",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9954_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3753
+    },
+    {
+      "cve_id": "CVE-2024-9955",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9955_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3898
+    },
+    {
+      "cve_id": "CVE-2024-9956",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9956_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3570
+    },
+    {
+      "cve_id": "CVE-2024-9957",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9957_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2993
+    },
+    {
+      "cve_id": "CVE-2024-9958",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9958_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3094
+    },
+    {
+      "cve_id": "CVE-2024-9959",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9959_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2752
+    },
+    {
+      "cve_id": "CVE-2024-9960",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9960_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3430
+    },
+    {
+      "cve_id": "CVE-2024-9961",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9961_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2643
+    },
+    {
+      "cve_id": "CVE-2024-9962",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9962_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2727
+    },
+    {
+      "cve_id": "CVE-2024-9963",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9963_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2972
+    },
+    {
+      "cve_id": "CVE-2024-9964",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9964_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3005
+    },
+    {
+      "cve_id": "CVE-2024-9965",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9965_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3737
+    },
+    {
+      "cve_id": "CVE-2024-9966",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9966_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3305
+    },
+    {
+      "cve_id": "CVE-2024-9967",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9967_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3393
+    },
+    {
+      "cve_id": "CVE-2024-9968",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9968_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2418
+    },
+    {
+      "cve_id": "CVE-2024-9969",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9969_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3443
+    },
+    {
+      "cve_id": "CVE-2024-9970",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9970_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3052
+    },
+    {
+      "cve_id": "CVE-2024-9971",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9971_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2607
+    },
+    {
+      "cve_id": "CVE-2024-9972",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9972_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2262
+    },
+    {
+      "cve_id": "CVE-2024-9973",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9973_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2805
+    },
+    {
+      "cve_id": "CVE-2024-9974",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9974_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2856
+    },
+    {
+      "cve_id": "CVE-2024-9975",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9975_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3490
+    },
+    {
+      "cve_id": "CVE-2024-9976",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9976_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3132
+    },
+    {
+      "cve_id": "CVE-2024-9977",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9977_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2718
+    },
+    {
+      "cve_id": "CVE-2024-9978",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9978_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3487
+    },
+    {
+      "cve_id": "CVE-2024-9979",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9979_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 4159
+    },
+    {
+      "cve_id": "CVE-2024-9980",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9980_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3977
+    },
+    {
+      "cve_id": "CVE-2024-9981",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9981_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3556
+    },
+    {
+      "cve_id": "CVE-2024-9982",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9982_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2763
+    },
+    {
+      "cve_id": "CVE-2024-9983",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9983_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2923
+    },
+    {
+      "cve_id": "CVE-2024-9984",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9984_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2976
+    },
+    {
+      "cve_id": "CVE-2024-9985",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9985_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2880
+    },
+    {
+      "cve_id": "CVE-2024-9986",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9986_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2462
+    },
+    {
+      "cve_id": "CVE-2024-9987",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9987_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2718
+    },
+    {
+      "cve_id": "CVE-2024-9988",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9988_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2817
+    },
+    {
+      "cve_id": "CVE-2024-9989",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9989_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 2730
+    },
+    {
+      "cve_id": "CVE-2024-9990",
+      "status": "failed",
+      "reason": "error: expected string or bytes-like object"
+    },
+    {
+      "cve_id": "CVE-2024-9991",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9991_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3053
+    },
+    {
+      "cve_id": "CVE-2024-9993",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9993_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3756
+    },
+    {
+      "cve_id": "CVE-2024-9994",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9994_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 4316
+    },
+    {
+      "cve_id": "CVE-2024-9996",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9996_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3424
+    },
+    {
+      "cve_id": "CVE-2024-9997",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9997_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3363
+    },
+    {
+      "cve_id": "CVE-2024-9999",
+      "status": "success",
+      "output_file": "/home/xiaoqun/security-agent/cyber_data/cveList_V5/enhanced_threat_reports/2024/9xxx/CVE-2024-9999_enhanced_report.txt",
+      "model": "gpt-4o",
+      "report_length": 3171
+    }
+  ]
+}

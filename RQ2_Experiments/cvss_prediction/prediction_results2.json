@@ -1,0 +1,695 @@
+{
+  "CVE-2024-9894": {
+    "ground_truth_score": 8.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 9.1,
+    "report_length": 2428,
+    "processed": true
+  },
+  "CVE-2024-9895": {
+    "ground_truth_score": 5.4,
+    "ground_truth_source": "NIST",
+    "predicted_score": 6.4,
+    "report_length": 3202,
+    "processed": true
+  },
+  "CVE-2024-9896": {
+    "ground_truth_score": 6.1,
+    "ground_truth_source": "Wordfence",
+    "predicted_score": 6.1,
+    "report_length": 2596,
+    "processed": true
+  },
+  "CVE-2024-9897": {
+    "ground_truth_score": 5.4,
+    "ground_truth_source": "NIST",
+    "predicted_score": 8.8,
+    "report_length": 3499,
+    "processed": true
+  },
+  "CVE-2024-9898": {
+    "ground_truth_score": 6.4,
+    "ground_truth_source": "Wordfence",
+    "predicted_score": 6.4,
+    "report_length": 3689,
+    "processed": true
+  },
+  "CVE-2024-9900": {
+    "ground_truth_score": 6.1,
+    "ground_truth_source": "NIST",
+    "predicted_score": 6.1,
+    "report_length": 3014,
+    "processed": true
+  },
+  "CVE-2024-9902": {
+    "ground_truth_score": 6.3,
+    "ground_truth_source": "Red Hat, Inc.",
+    "predicted_score": 7.8,
+    "report_length": 3168,
+    "processed": true
+  },
+  "CVE-2024-9903": {
+    "ground_truth_score": 5.8,
+    "ground_truth_source": "VulDB",
+    "predicted_score": 9.8,
+    "report_length": 2756,
+    "processed": true
+  },
+  "CVE-2024-9904": {
+    "ground_truth_score": 5.8,
+    "ground_truth_source": "VulDB",
+    "predicted_score": 10.0,
+    "report_length": 2765,
+    "processed": true
+  },
+  "CVE-2024-9905": {
+    "ground_truth_score": 8.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 9.8,
+    "report_length": 2766,
+    "processed": true
+  },
+  "CVE-2024-9906": {
+    "ground_truth_score": 5.4,
+    "ground_truth_source": "NIST",
+    "predicted_score": 6.1,
+    "report_length": 2705,
+    "processed": true
+  },
+  "CVE-2024-9907": {
+    "ground_truth_score": 2.6,
+    "ground_truth_source": "VulDB",
+    "predicted_score": 6.8,
+    "report_length": 2409,
+    "processed": true
+  },
+  "CVE-2024-9908": {
+    "ground_truth_score": 8.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 9.8,
+    "report_length": 2843,
+    "processed": true
+  },
+  "CVE-2024-9909": {
+    "ground_truth_score": 8.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 10.0,
+    "report_length": 2605,
+    "processed": true
+  },
+  "CVE-2024-9910": {
+    "ground_truth_score": 8.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 9.8,
+    "report_length": 2250,
+    "processed": true
+  },
+  "CVE-2024-9911": {
+    "ground_truth_score": 8.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 9.8,
+    "report_length": 2685,
+    "processed": true
+  },
+  "CVE-2024-9912": {
+    "ground_truth_score": 8.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 9.8,
+    "report_length": 2224,
+    "processed": true
+  },
+  "CVE-2024-9913": {
+    "ground_truth_score": 8.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 9.8,
+    "report_length": 2604,
+    "processed": true
+  },
+  "CVE-2024-9914": {
+    "ground_truth_score": 8.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 9.8,
+    "report_length": 2354,
+    "processed": true
+  },
+  "CVE-2024-9915": {
+    "ground_truth_score": 8.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 9.8,
+    "report_length": 1823,
+    "processed": true
+  },
+  "CVE-2024-9916": {
+    "ground_truth_score": 9.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 10.0,
+    "report_length": 2288,
+    "processed": true
+  },
+  "CVE-2024-9917": {
+    "ground_truth_score": 4.9,
+    "ground_truth_source": "NIST",
+    "predicted_score": 9.8,
+    "report_length": 2819,
+    "processed": true
+  },
+  "CVE-2024-9918": {
+    "ground_truth_score": 7.2,
+    "ground_truth_source": "NIST",
+    "predicted_score": 9.8,
+    "report_length": 2793,
+    "processed": true
+  },
+  "CVE-2024-9919": {
+    "ground_truth_score": 8.4,
+    "ground_truth_source": "huntr.dev",
+    "predicted_score": 9.1,
+    "report_length": 3077,
+    "processed": true
+  },
+  "CVE-2024-9920": {
+    "ground_truth_score": 8.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 10.0,
+    "report_length": 3443,
+    "processed": true
+  },
+  "CVE-2024-9921": {
+    "ground_truth_score": 9.8,
+    "ground_truth_source": "TWCERT/CC",
+    "predicted_score": 10.0,
+    "report_length": 3325,
+    "processed": true
+  },
+  "CVE-2024-9922": {
+    "ground_truth_score": 7.5,
+    "ground_truth_source": "TWCERT/CC",
+    "predicted_score": 7.5,
+    "report_length": 3127,
+    "processed": true
+  },
+  "CVE-2024-9923": {
+    "ground_truth_score": 4.9,
+    "ground_truth_source": "TWCERT/CC",
+    "predicted_score": 7.2,
+    "report_length": 4007,
+    "processed": true
+  },
+  "CVE-2024-9924": {
+    "ground_truth_score": 9.8,
+    "ground_truth_source": "TWCERT/CC",
+    "predicted_score": 10.0,
+    "report_length": 3258,
+    "processed": true
+  },
+  "CVE-2024-9925": {
+    "ground_truth_score": 9.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 9.8,
+    "report_length": 3152,
+    "processed": true
+  },
+  "CVE-2024-9926": {
+    "ground_truth_score": 4.3,
+    "ground_truth_source": "134c704f-9b21-4f2e-91b3-4a467353bcc0",
+    "predicted_score": 6.5,
+    "report_length": 3100,
+    "processed": true
+  },
+  "CVE-2024-9927": {
+    "ground_truth_score": 7.2,
+    "ground_truth_source": "Wordfence",
+    "predicted_score": 8.8,
+    "report_length": 3613,
+    "processed": true
+  },
+  "CVE-2024-9928": {
+    "ground_truth_score": 5.3,
+    "ground_truth_source": "Hitachi Energy",
+    "predicted_score": 7.5,
+    "report_length": 3585,
+    "processed": true
+  },
+  "CVE-2024-9929": {
+    "ground_truth_score": 4.3,
+    "ground_truth_source": "Hitachi Energy",
+    "predicted_score": 7.5,
+    "report_length": 3672,
+    "processed": true
+  },
+  "CVE-2024-9930": {
+    "ground_truth_score": 9.8,
+    "ground_truth_source": "Wordfence",
+    "predicted_score": 10.0,
+    "report_length": 3157,
+    "processed": true
+  },
+  "CVE-2024-9931": {
+    "ground_truth_score": 9.8,
+    "ground_truth_source": "Wordfence",
+    "predicted_score": 10.0,
+    "report_length": 2909,
+    "processed": true
+  },
+  "CVE-2024-9932": {
+    "ground_truth_score": 9.8,
+    "ground_truth_source": "Wordfence",
+    "predicted_score": 10.0,
+    "report_length": 3276,
+    "processed": true
+  },
+  "CVE-2024-9933": {
+    "ground_truth_score": 9.8,
+    "ground_truth_source": "Wordfence",
+    "predicted_score": 9.8,
+    "report_length": 2781,
+    "processed": true
+  },
+  "CVE-2024-9934": {
+    "ground_truth_score": 6.1,
+    "ground_truth_source": "134c704f-9b21-4f2e-91b3-4a467353bcc0",
+    "predicted_score": 6.1,
+    "report_length": 2892,
+    "processed": true
+  },
+  "CVE-2024-9935": {
+    "ground_truth_score": 7.5,
+    "ground_truth_source": "Wordfence",
+    "predicted_score": 7.5,
+    "report_length": 2744,
+    "processed": true
+  },
+  "CVE-2024-9936": {
+    "ground_truth_score": 6.5,
+    "ground_truth_source": "134c704f-9b21-4f2e-91b3-4a467353bcc0",
+    "predicted_score": 5.7,
+    "report_length": 3151,
+    "processed": true
+  },
+  "CVE-2024-9937": {
+    "ground_truth_score": 6.1,
+    "ground_truth_source": "Wordfence",
+    "predicted_score": 6.1,
+    "report_length": 3434,
+    "processed": true
+  },
+  "CVE-2024-9938": {
+    "ground_truth_score": 6.1,
+    "ground_truth_source": "Wordfence",
+    "predicted_score": 6.1,
+    "report_length": 3147,
+    "processed": true
+  },
+  "CVE-2024-9939": {
+    "ground_truth_score": 7.5,
+    "ground_truth_source": "Wordfence",
+    "predicted_score": 7.5,
+    "report_length": 3179,
+    "processed": true
+  },
+  "CVE-2024-9940": {
+    "ground_truth_score": 4.3,
+    "ground_truth_source": "NIST",
+    "predicted_score": 6.1,
+    "report_length": 3109,
+    "processed": true
+  },
+  "CVE-2024-9941": {
+    "ground_truth_score": 8.8,
+    "ground_truth_source": "Wordfence",
+    "predicted_score": 8.8,
+    "report_length": 3038,
+    "processed": true
+  },
+  "CVE-2024-9942": {
+    "ground_truth_score": 9.8,
+    "ground_truth_source": "Wordfence",
+    "predicted_score": 10.0,
+    "report_length": 3735,
+    "processed": true
+  },
+  "CVE-2024-9943": {
+    "ground_truth_score": 6.3,
+    "ground_truth_source": "Wordfence",
+    "predicted_score": 8.8,
+    "report_length": 3386,
+    "processed": true
+  },
+  "CVE-2024-9944": {
+    "ground_truth_score": 6.1,
+    "ground_truth_source": "NIST",
+    "predicted_score": 4.3,
+    "report_length": 3024,
+    "processed": true
+  },
+  "CVE-2024-9945": {
+    "ground_truth_score": 5.3,
+    "ground_truth_source": "Fortra",
+    "predicted_score": 7.5,
+    "report_length": 2328,
+    "processed": true
+  },
+  "CVE-2024-9946": {
+    "ground_truth_score": 8.1,
+    "ground_truth_source": "NIST",
+    "predicted_score": 9.8,
+    "report_length": 4044,
+    "processed": true
+  },
+  "CVE-2024-9947": {
+    "ground_truth_score": 9.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 10.0,
+    "report_length": 3085,
+    "processed": true
+  },
+  "CVE-2024-9949": {
+    "ground_truth_score": 5.8,
+    "ground_truth_source": "Forescout",
+    "predicted_score": 5.5,
+    "report_length": 2516,
+    "processed": true
+  },
+  "CVE-2024-9950": {
+    "ground_truth_score": 8.5,
+    "ground_truth_source": "Forescout",
+    "predicted_score": 7.8,
+    "report_length": 2734,
+    "processed": true
+  },
+  "CVE-2024-9951": {
+    "ground_truth_score": 6.1,
+    "ground_truth_source": "Wordfence",
+    "predicted_score": 6.1,
+    "report_length": 3248,
+    "processed": true
+  },
+  "CVE-2024-9952": {
+    "ground_truth_score": 4.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 7.4,
+    "report_length": 2830,
+    "processed": true
+  },
+  "CVE-2024-9953": {
+    "ground_truth_score": 4.9,
+    "ground_truth_source": "NIST",
+    "predicted_score": 6.5,
+    "report_length": 3855,
+    "processed": true
+  },
+  "CVE-2024-9954": {
+    "ground_truth_score": 8.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 8.8,
+    "report_length": 3753,
+    "processed": true
+  },
+  "CVE-2024-9955": {
+    "ground_truth_score": 8.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 6.3,
+    "report_length": 3898,
+    "processed": true
+  },
+  "CVE-2024-9956": {
+    "ground_truth_score": 7.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 8.8,
+    "report_length": 3570,
+    "processed": true
+  },
+  "CVE-2024-9957": {
+    "ground_truth_score": 8.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 7.1,
+    "report_length": 2993,
+    "processed": true
+  },
+  "CVE-2024-9958": {
+    "ground_truth_score": 4.3,
+    "ground_truth_source": "NIST",
+    "predicted_score": 4.3,
+    "report_length": 3094,
+    "processed": true
+  },
+  "CVE-2024-9959": {
+    "ground_truth_score": 8.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 8.1,
+    "report_length": 2752,
+    "processed": true
+  },
+  "CVE-2024-9960": {
+    "ground_truth_score": 7.5,
+    "ground_truth_source": "NIST",
+    "predicted_score": 8.8,
+    "report_length": 3430,
+    "processed": true
+  },
+  "CVE-2024-9961": {
+    "ground_truth_score": 8.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 8.8,
+    "report_length": 2643,
+    "processed": true
+  },
+  "CVE-2024-9962": {
+    "ground_truth_score": 4.3,
+    "ground_truth_source": "NIST",
+    "predicted_score": 4.3,
+    "report_length": 2727,
+    "processed": true
+  },
+  "CVE-2024-9963": {
+    "ground_truth_score": 4.3,
+    "ground_truth_source": "NIST",
+    "predicted_score": 6.5,
+    "report_length": 2972,
+    "processed": true
+  },
+  "CVE-2024-9964": {
+    "ground_truth_score": 4.3,
+    "ground_truth_source": "NIST",
+    "predicted_score": 3.1,
+    "report_length": 3005,
+    "processed": true
+  },
+  "CVE-2024-9965": {
+    "ground_truth_score": 8.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 7.1,
+    "report_length": 3737,
+    "processed": true
+  },
+  "CVE-2024-9966": {
+    "ground_truth_score": 5.3,
+    "ground_truth_source": "NIST",
+    "predicted_score": 4.3,
+    "report_length": 3305,
+    "processed": true
+  },
+  "CVE-2024-9967": {
+    "ground_truth_score": 5.4,
+    "ground_truth_source": "NIST",
+    "predicted_score": 6.4,
+    "report_length": 3393,
+    "processed": true
+  },
+  "CVE-2024-9968": {
+    "ground_truth_score": 8.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 9.8,
+    "report_length": 2418,
+    "processed": true
+  },
+  "CVE-2024-9969": {
+    "ground_truth_score": 5.4,
+    "ground_truth_source": "TWCERT/CC",
+    "predicted_score": 6.1,
+    "report_length": 3443,
+    "processed": true
+  },
+  "CVE-2024-9970": {
+    "ground_truth_score": 8.8,
+    "ground_truth_source": "TWCERT/CC",
+    "predicted_score": 8.8,
+    "report_length": 3052,
+    "processed": true
+  },
+  "CVE-2024-9971": {
+    "ground_truth_score": 8.8,
+    "ground_truth_source": "TWCERT/CC",
+    "predicted_score": 8.8,
+    "report_length": 2607,
+    "processed": true
+  },
+  "CVE-2024-9972": {
+    "ground_truth_score": 9.8,
+    "ground_truth_source": "TWCERT/CC",
+    "predicted_score": 10.0,
+    "report_length": 2262,
+    "processed": true
+  },
+  "CVE-2024-9973": {
+    "ground_truth_score": 9.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 9.8,
+    "report_length": 2805,
+    "processed": true
+  },
+  "CVE-2024-9974": {
+    "ground_truth_score": 9.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 9.8,
+    "report_length": 2856,
+    "processed": true
+  },
+  "CVE-2024-9975": {
+    "ground_truth_score": 8.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 9.8,
+    "report_length": 3490,
+    "processed": true
+  },
+  "CVE-2024-9976": {
+    "ground_truth_score": 9.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 9.8,
+    "report_length": 3132,
+    "processed": true
+  },
+  "CVE-2024-9977": {
+    "ground_truth_score": 5.8,
+    "ground_truth_source": "VulDB",
+    "predicted_score": 10.0,
+    "report_length": 2718,
+    "processed": true
+  },
+  "CVE-2024-9978": {
+    "ground_truth_score": 5.5,
+    "ground_truth_source": "NIST",
+    "predicted_score": 6.5,
+    "report_length": 3487,
+    "processed": true
+  },
+  "CVE-2024-9979": {
+    "ground_truth_score": 5.3,
+    "ground_truth_source": "Red Hat, Inc.",
+    "predicted_score": 7.8,
+    "report_length": 4159,
+    "processed": true
+  },
+  "CVE-2024-9980": {
+    "ground_truth_score": 8.8,
+    "ground_truth_source": "TWCERT/CC",
+    "predicted_score": 9.8,
+    "report_length": 3977,
+    "processed": true
+  },
+  "CVE-2024-9981": {
+    "ground_truth_score": 8.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 8.8,
+    "report_length": 3556,
+    "processed": true
+  },
+  "CVE-2024-9982": {
+    "ground_truth_score": 9.8,
+    "ground_truth_source": "TWCERT/CC",
+    "predicted_score": 10.0,
+    "report_length": 2763,
+    "processed": true
+  },
+  "CVE-2024-9983": {
+    "ground_truth_score": 7.5,
+    "ground_truth_source": "TWCERT/CC",
+    "predicted_score": 7.5,
+    "report_length": 2923,
+    "processed": true
+  },
+  "CVE-2024-9984": {
+    "ground_truth_score": 9.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 9.8,
+    "report_length": 2976,
+    "processed": true
+  },
+  "CVE-2024-9985": {
+    "ground_truth_score": 9.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 8.8,
+    "report_length": 2880,
+    "processed": true
+  },
+  "CVE-2024-9986": {
+    "ground_truth_score": 9.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 9.8,
+    "report_length": 2462,
+    "processed": true
+  },
+  "CVE-2024-9987": {
+    "ground_truth_score": 8.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 8.8,
+    "report_length": 2718,
+    "processed": true
+  },
+  "CVE-2024-9988": {
+    "ground_truth_score": 9.8,
+    "ground_truth_source": "Wordfence",
+    "predicted_score": 9.8,
+    "report_length": 2817,
+    "processed": true
+  },
+  "CVE-2024-9989": {
+    "ground_truth_score": 9.8,
+    "ground_truth_source": "Wordfence",
+    "predicted_score": 9.8,
+    "report_length": 2730,
+    "processed": true
+  },
+  "CVE-2024-9991": {
+    "ground_truth_score": 7.0,
+    "ground_truth_source": "Indian Computer Emergency Response Team (CERT-In)",
+    "predicted_score": 6.8,
+    "report_length": 3053,
+    "processed": true
+  },
+  "CVE-2024-9993": {
+    "ground_truth_score": 6.4,
+    "ground_truth_source": "Wordfence",
+    "predicted_score": 7.2,
+    "report_length": 3756,
+    "processed": true
+  },
+  "CVE-2024-9994": {
+    "ground_truth_score": 6.4,
+    "ground_truth_source": "Wordfence",
+    "predicted_score": 7.2,
+    "report_length": 4316,
+    "processed": true
+  },
+  "CVE-2024-9996": {
+    "ground_truth_score": 7.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 7.8,
+    "report_length": 3424,
+    "processed": true
+  },
+  "CVE-2024-9997": {
+    "ground_truth_score": 7.8,
+    "ground_truth_source": "NIST",
+    "predicted_score": 7.8,
+    "report_length": 3363,
+    "processed": true
+  },
+  "CVE-2024-9999": {
+    "ground_truth_score": 6.5,
+    "ground_truth_source": "Progress Software Corporation",
+    "predicted_score": 8.8,
+    "report_length": 3171,
+    "processed": true
+  }
+}

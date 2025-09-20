@@ -1,0 +1,152 @@
+{
+  "timestamp": "2025-07-09T12:27:47.801064",
+  "dataset_info": {
+    "total_cve_ids": 101,
+    "successful_predictions": 96,
+    "failed_predictions": 0,
+    "success_rate": 100.0
+  },
+  "score_prediction_metrics": {
+    "rmse": 1.6780134584283486,
+    "mae": 1.0614583333333334,
+    "correlation": 0.6899959087327034
+  },
+  "metrics_accuracy": {
+    "overall_accuracy": 85.67708333333334,
+    "individual_metrics": {
+      "AV": {
+        "name": "Attack Vector",
+        "accuracy": 96.875,
+        "correct": 93,
+        "total": 96,
+        "predicted_distribution": {
+          "N": 90,
+          "L": 6
+        }
+      },
+      "AC": {
+        "name": "Attack Complexity",
+        "accuracy": 93.75,
+        "correct": 90,
+        "total": 96,
+        "predicted_distribution": {
+          "L": 92,
+          "H": 4
+        }
+      },
+      "PR": {
+        "name": "Privileges Required",
+        "accuracy": 78.125,
+        "correct": 75,
+        "total": 96,
+        "predicted_distribution": {
+          "L": 27,
+          "N": 67,
+          "H": 2
+        }
+      },
+      "UI": {
+        "name": "User Interaction",
+        "accuracy": 95.83333333333334,
+        "correct": 92,
+        "total": 96,
+        "predicted_distribution": {
+          "N": 65,
+          "R": 31
+        }
+      },
+      "S": {
+        "name": "Scope",
+        "accuracy": 76.04166666666666,
+        "correct": 73,
+        "total": 96,
+        "predicted_distribution": {
+          "U": 73,
+          "C": 23
+        }
+      },
+      "C": {
+        "name": "Confidentiality",
+        "accuracy": 78.125,
+        "correct": 75,
+        "total": 96,
+        "predicted_distribution": {
+          "H": 66,
+          "L": 17,
+          "N": 13
+        }
+      },
+      "I": {
+        "name": "Integrity",
+        "accuracy": 84.375,
+        "correct": 81,
+        "total": 96,
+        "predicted_distribution": {
+          "H": 60,
+          "L": 19,
+          "N": 17
+        }
+      },
+      "A": {
+        "name": "Availability",
+        "accuracy": 82.29166666666666,
+        "correct": 79,
+        "total": 96,
+        "predicted_distribution": {
+          "L": 8,
+          "N": 37,
+          "H": 51
+        }
+      }
+    }
+  },
+  "score_distribution": {
+    "0.0-3.0": {
+      "ground_truth": 1,
+      "predicted": 2
+    },
+    "3.0-6.0": {
+      "ground_truth": 24,
+      "predicted": 17
+    },
+    "7.0-10.0": {
+      "ground_truth": 57,
+      "predicted": 62
+    },
+    "9.0-10.0": {
+      "ground_truth": 20,
+      "predicted": 32
+    }
+  },
+  "common_errors": {
+    "S: U -> C": 15,
+    "PR: L -> N": 10,
+    "C: L -> H": 9,
+    "S: C -> U": 8,
+    "I: L -> H": 7,
+    "PR: H -> N": 6,
+    "A: H -> L": 5,
+    "C: H -> N": 4,
+    "A: H -> N": 4,
+    "A: L -> H": 4,
+    "AC: H -> L": 3,
+    "I: H -> N": 3,
+    "C: N -> L": 3,
+    "C: L -> N": 3,
+    "I: L -> N": 3
+  },
+  "source_distribution": {
+    "NIST": 52,
+    "Wordfence": 20,
+    "huntr.dev": 2,
+    "Red Hat, Inc.": 2,
+    "VulDB": 4,
+    "TWCERT/CC": 11,
+    "134c704f-9b21-4f2e-91b3-4a467353bcc0": 3,
+    "Hitachi Energy": 2,
+    "Fortra": 1,
+    "Forescout": 2,
+    "Indian Computer Emergency Response Team (CERT-In)": 1,
+    "Progress Software Corporation": 1
+  }
+}
