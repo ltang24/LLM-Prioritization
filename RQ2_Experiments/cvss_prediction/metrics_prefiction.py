@@ -1,11 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-多模型CVSS Metrics预测器（修复版）
-- 只有当缓存结果“通过校验”才会跳过预测
-- 健壮的 g4f 响应与 Metrics 解析
-- 更详细的日志与评估
-"""
+
 
 import os
 import json

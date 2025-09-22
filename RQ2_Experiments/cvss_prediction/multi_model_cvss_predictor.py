@@ -1,12 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-多模型CVSS Metrics预测器（修复版，固定到 2024 年目录）
-- 报告文件位于: /home/xiaoqun/RQ2_Experiments/enhanced_threat_reports/2024/<bucket>/CVE-2024-xxxx_enhanced_report.txt
-- 只有当缓存结果“通过校验”才会跳过预测
-- 健壮的 g4f 响应与 Metrics 解析
-- 更详细的日志与评估
-"""
 
 import os
 import json
@@ -28,16 +21,14 @@ import pandas as pd
 # 报告根目录固定在 2024 年（你的数据都在这里）
 REPORT_DIR_2024 = "/home/xiaoqun/RQ2_Experiments/enhanced_threat_reports/2024"
 GT_PATH = "/home/xiaoqun/RQ2_Experiments/GT_Data/cvss_2024_9xxx.json"
-OUTPUT_DIR = "/home/xiaoqun/RQ2_Experiments/multi_model_results"
+OUTPUT_DIR = "/home/xiaoqun/RQ2_Experiments/multi_model_results2"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # 定义要测试的模型（按你的 g4f 安装适配）
 MODELS_TO_TEST = {
-    'gpt-4o': g4f.models.gpt_4o,
-    'gpt-4': g4f.models.gpt_4,
-    'gpt-4o-mini': g4f.models.gpt_4o_mini,
-    'gemini-1.5-pro': g4f.models.gemini_1_5_pro,
-    'llama-3.1-70b': g4f.models.llama_3_1_70b
+    'gemini-1.5-flash': g4f.models.gemini_1_5_flash,
+    'command-r': g4f.models.command_r,
+    'blackboxai': g4f.models.blackboxai,
 }
 
 # Ground Truth来源优先级（越小优先级越高）
