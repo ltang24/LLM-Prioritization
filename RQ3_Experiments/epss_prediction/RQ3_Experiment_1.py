@@ -30,13 +30,13 @@ WINDOW_DAYS = 180          # 历史窗口：<= 0.5 年（180天）
 SAMPLE_PER_TREND = None    # None 表示全量；调小便于快速验证
 
 # Ground truth（你给的四个文件）
-GT_MONO_DEC = "/home/xiaoqun/RQ3_Experimants/epss_classified/selected_epss_history_monotonic_decrease.json"
-GT_MONO_INC = "/home/xiaoqun/RQ3_Experimants/epss_classified/selected_epss_history_monotonic_increase.json"
-GT_STABLE   = "/home/xiaoqun/RQ3_Experimants/epss_classified/selected_epss_history_stable.json"
-GT_SUDDEN   = "/home/xiaoqun/RQ3_Experimants/epss_classified/selected_epss_history_sudden_change.json"
+GT_MONO_DEC = "/path/to/project/RQ3_Experimants/epss_classified/selected_epss_history_monotonic_decrease.json"
+GT_MONO_INC = "/path/to/project/RQ3_Experimants/epss_classified/selected_epss_history_monotonic_increase.json"
+GT_STABLE   = "/path/to/project/RQ3_Experimants/epss_classified/selected_epss_history_stable.json"
+GT_SUDDEN   = "/path/to/project/RQ3_Experimants/epss_classified/selected_epss_history_sudden_change.json"
 
-REPORT_DIR = "/home/xiaoqun/RQ3_Experimants/enhanced_reports"
-OUT_DIR    = "/home/xiaoqun/RQ3_Experimants/results_rq3_exp1_llm"
+REPORT_DIR = "/path/to/project/RQ3_Experimants/enhanced_reports"
+OUT_DIR    = "/path/to/project/RQ3_Experimants/results_rq3_exp1_llm"
 
 # 模型池（按需增减）
 try:

@@ -8,7 +8,7 @@ ref.py  —  CVSS reasoning 生成器（增强版）
 3) 净化器：若模型输出含 CVSS 标签，先剥离再验收，而不是直接判死
 4) CWE 感知兜底：至少支持 CWE-36（绝对路径遍历/任意文件读取），置信度可设为 medium
 5) 始终有输出：即使无 Reference 或网页不可用，也会基于描述 + CWE 生成 8 项 reasoning
-6) 目录：默认读 /home/xiaoqun/RQ3_Experimants/meta_data ，写 /home/xiaoqun/RQ3_Experimants/ref
+6) 目录：默认读 /path/to/project/RQ3_Experimants/meta_data ，写 /path/to/project/RQ3_Experimants/ref
 """
 
 import argparse
@@ -31,8 +31,8 @@ except Exception:
     HAS_G4F = False
 
 # ================== 路径与参数 ==================
-DETAIL_ROOT = pathlib.Path("/home/xiaoqun/RQ3_Experimants/meta_data")  # 输入
-REF_ROOT    = pathlib.Path("/home/xiaoqun/RQ3_Experimants/ref")        # 输出
+DETAIL_ROOT = pathlib.Path("/path/to/project/RQ3_Experimants/meta_data")  # 输入
+REF_ROOT    = pathlib.Path("/path/to/project/RQ3_Experimants/ref")        # 输出
 REF_ROOT.mkdir(parents=True, exist_ok=True)
 
 MAX_REFS_PER_CVE = 3           # 每个 CVE 最多尝试几个 Reference

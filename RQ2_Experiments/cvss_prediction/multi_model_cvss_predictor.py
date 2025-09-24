@@ -19,9 +19,9 @@ import pandas as pd
 
 # ======================== 配置 ========================
 # 报告根目录固定在 2024 年（你的数据都在这里）
-REPORT_DIR_2024 = "/home/xiaoqun/RQ2_Experiments/enhanced_threat_reports/2024"
-GT_PATH = "/home/xiaoqun/RQ2_Experiments/GT_Data/cvss_2024_9xxx.json"
-OUTPUT_DIR = "/home/xiaoqun/RQ2_Experiments/multi_model_results2"
+REPORT_DIR_2024 = "/path/to/project/RQ2_Experiments/enhanced_threat_reports/2024"
+GT_PATH = "/path/to/project/RQ2_Experiments/GT_Data/cvss_2024_9xxx.json"
+OUTPUT_DIR = "/path/to/project/RQ2_Experiments/multi_model_results2"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # 定义要测试的模型（按你的 g4f 安装适配）

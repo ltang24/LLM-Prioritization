@@ -17,13 +17,14 @@ matplotlib.use("Agg")  # 服务器无显示环境时防崩
 import matplotlib.pyplot as plt
 import pandas as pd
 
+
 # ======================== 配置 ========================
-REPORT_DIR = "/home/xiaoqun/RQ2_Experiments/enhanced_threat_reports"
-GT_PATH = "/home/xiaoqun/RQ2_Experiments/GT_Data/cvss_2024_9xxx.json"
-OUTPUT_DIR = "/home/xiaoqun/RQ2_Experiments/multi_model_results"
+REPORT_DIR = "/path/to/project/RQ2_Experiments/enhanced_threat_reports"
+GT_PATH = "/path/to/project/RQ2_Experiments/GT_Data/cvss_2024_9xxx.json"
+OUTPUT_DIR = "/path/to/project/RQ2_Experiments/multi_model_results"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-# 定义要测试的模型（按你的 g4f 安装适配）
+
 MODELS_TO_TEST = {
     'gpt-4o': g4f.models.gpt_4o,
     'gpt-4': g4f.models.gpt_4,

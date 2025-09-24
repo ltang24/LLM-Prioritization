@@ -7,9 +7,9 @@ from pathlib import Path
 from typing import List, Dict, Tuple
 
 # ====== 路径配置 ======
-SRC_ROOT = Path("/home/xiaoqun/cveList_V5/extract_meta/2025")
-ID_LIST_FILE = Path("/home/xiaoqun/RQ3_Experimants/epss_classified/epss_trend_top50_sample.txt")
-DEST_DIR = Path("/home/xiaoqun/RQ3_Experimants/meta_data")
+SRC_ROOT = Path("/path/to/project/cveList_V5/extract_meta/2025")
+ID_LIST_FILE = Path("/path/to/project/RQ3_Experimants/epss_classified/epss_trend_top50_sample.txt")
+DEST_DIR = Path("/path/to/project/RQ3_Experimants/meta_data")
 
 # True=移动(move)，False=拷贝(copy)
 MOVE = False

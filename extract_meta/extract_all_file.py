@@ -14,10 +14,10 @@ import json, pathlib, re, sys, os
 
 # 1) —— 根据你的目录结构修改以下常量即可 ——
 REPO_ROOT = pathlib.Path(
-    "/home/xiaoqun/security-agent/cyber_data/cveList_V5/cves"
+    "/path/to/project/security-agent/cyber_data/cveList_V5/cves"
 )                        # 官方 JSON 存放处
 OUT_ROOT  = pathlib.Path(
-    "/home/xiaoqun/security-agent/cyber_data/cveList_V5/extract_meta"
+    "/path/to/project/security-agent/cyber_data/cveList_V5/extract_meta"
 )                        # 精简 meta 输出路径
 # -----------------------------------------------------------
 
