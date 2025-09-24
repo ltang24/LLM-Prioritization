@@ -1,183 +1,177 @@
-# POLAR: Automating Cyber Threat Prioritization Through LLM-Powered Assessment
+# 🛡️ POLAR: Automating Cyber Threat Prioritization Through LLM-Powered Assessment
+
+> An LLM-based Framework for End-to-End Vulnerability Assessment and Mitigation
+## 🎯 Overview
+
+**POLAR** is an LLM-based framework that automates end-to-end cyber threat prioritization, addressing the critical challenge of managing new vulnerabilities reported annually. The framework transforms unstructured threat intelligence into structured severity metrics, forecasts exploitation likelihood through temporal narratives, and generates prioritized remediation strategies.
+![POLAR Overview](figures/Overview%20of%20POLAR%20.png)
+*Figure 1: POLAR integrates real-world threat incidents with external databases to assess threats and recommend mitigations*
 
 
-## Overview
+### Key Achievements
+| Metric | Improvement | Description |
+|--------|-------------|-------------|
+| **CTI Extraction** | **↑ 71.9%** | F1 score improvement for threat indicator extraction |
+| **CVSS Accuracy** | **↑ 43.5%** | Improvement in static severity scoring |
+| **EPSS Prediction** | **↓ 22.4%** | Reduction in exploitation prediction RMSE |
+| **Mitigation NDCG@5** | **↑ 50.8%** | Improvement in mitigation recommendation ranking |
 
-POLAR is an LLM-based framework that automates end-to-end cyber threat prioritization, addressing the critical challenge of managing new vulnerabilities reported annually. The framework operates through four sequential stages:
+---
 
-1. **CTI Triage** - Categorizes threat indicators and enriches contexts with vulnerability metadata
-2. **Static Analysis** - Maps threats to CVSS metrics for standardized severity assessment  
-3. **Exploitation Analysis** - Forecasts near-term exploitation likelihood using temporal evidence
-4. **Mitigation Recommendation** - Generates prioritized remediation strategies
+## 🔧 Pipeline Architecture
+![Workflow](figures/workflow.png)
+*Figure 2: Four-stage sequential pipeline from CTI triage to mitigation recommendation*
 
-## Key Results
+## 🔁 Four Sequential Stages
 
-- **71.9%** improvement in CTI extraction F1 score
-- **43.5%** increase in CVSS accuracy
-- **22.4%** reduction in EPSS RMSE
-- **50.8%** improvement in mitigation NDCG@5
+POLAR follows a four-stage pipeline to prioritize threats from raw CTI to actionable mitigation:
 
-## Repository Structure
+---
 
-```
-├── RQ2_Experiments/          # CVSS prediction experiments
-│   └── cvss_prediction/
-│       ├── metrics_prediction.py        # Multi-model CVSS metrics predictor
-│       ├── multi_model_cvss_predictor.py # Fixed version for 2024 directory
-│       ├── score_prediction1.py         # Direct score prediction
-│       ├── score_prediction2.py         # Metrics-based prediction
-│       └── two_stage_prediction.py      # Two-stage prediction approach
-│
-├── RQ3_Experiments/          # EPSS exploitation prediction
-│   └── epss_prediction/
-│       ├── RQ3_Experiment_1.py  # Trend-based prediction evaluation
-│       └── RQ3_Experiment_2.py  # Window size analysis
-│
-├── enhanced_threat_reports/  # [Data directory - not included]
-└── GT_Data/                  # [Ground truth data - not included]
-```
+### 1. 🧩 CTI Triage
 
-## Requirements
+Extract and disentangle individual threat events from noisy CTI reports.  
+LLMs enrich each instance with metadata such as CVE ID, MITRE ATT&CK TTPs, and CISA KEV tags.
 
-```python
-python >= 3.8
-numpy >= 1.20.0
-pandas >= 1.3.0
-scikit-learn >= 0.24.0
-matplotlib >= 3.3.0
-tqdm >= 4.60.0
-g4f  # For LLM model access
-```
+> 🛠️ *Example:*  
+> `{"CVE": "2021-34527", "Pattern": "DLL hijacking", "TTP": "T1210"}`
 
-## Experiments
+---
 
-### RQ2: Static Analysis (CVSS Prediction)
+### 2. 📐 Static Analysis
 
-Evaluates POLAR's ability to predict CVSS metrics and scores from threat reports.
+Map each threat to **CVSS v3.1 metrics** via LLM reasoning.  
+LLMs justify values for AV, AC, PR, UI, CIA, etc., then compute severity with the CVSS formula.
 
-```bash
-# Run multi-model CVSS metrics prediction
-python RQ2_Experiments/cvss_prediction/multi_model_cvss_predictor.py
+> 🧮 *Example:*  
+> `AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N → Score: 7.5`
 
-# Run two-stage prediction (metrics classification + score prediction)
-python RQ2_Experiments/cvss_prediction/two_stage_prediction.py
-```
+---
 
-**Key Configuration Parameters:**
-- `TEST_LIMIT`: Number of CVEs to test (set to `None` for full dataset)
-- `MODELS_TO_TEST`: LLM models to evaluate
-- `MAX_RETRIES`: Number of retry attempts for LLM calls
+### 3. 📈 Exploitation Analysis
 
-### RQ3: Exploitation Analysis (EPSS Prediction)
+Forecast short-term exploit risk using signals like PoC presence, KEV listings, and vendor telemetry.  
+LLMs produce a 30-day likelihood estimate with reasoning over exploitation narratives.
 
-#### Experiment 1: Trend-based Prediction
-Evaluates prediction accuracy across different exploitation patterns (monotonic, stable, sudden changes).
+> 📊 *Example:*  
+> `EPSS-like score: 94.3% (High risk)`
 
-```bash
-python RQ3_Experiments/epss_prediction/RQ3_Experiment_1.py
-```
+---
 
-**Configuration:**
-- `WINDOW_DAYS = 180`: Historical window for predictions (6 months)
-- `SAMPLE_PER_TREND`: Number of samples per trend type (None for all)
+### 4. 🛡️ Mitigation Recommendation
 
-#### Experiment 2: Window Size Analysis
-Analyzes the impact of historical context length on prediction accuracy.
+Retrieve and rank mitigation actions from trusted sources (e.g., NVD, ATT&CK, vendor bulletins).  
+LLMs tailor strategies based on severity and likelihood.
 
-```bash
-python RQ3_Experiments/epss_prediction/RQ3_Experiment_2.py
-```
+> 📋 *Example:*  
+> 1. Apply KB5004945 patch  
+> 2. Disable Print Spooler via GPO  
+> 3. Block RPC over SMB
 
-**Configuration:**
-- `WINDOW_YEARS = [0.5, 1.0, 2.0]`: Different historical windows to test
+---
 
-## Data Format
+---
 
-### CVSS Ground Truth Format
-```json
-{
-  "CVE-2024-9xxx": [
-    {
-      "base_score": 7.5,
-      "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
-      "score_source": "NIST"
-    }
-  ]
-}
-```
+## 📁 Repository Structure
 
-### EPSS History Format
-```json
-{
-  "CVE-2024-xxxx": [
-    {
-      "date": "2024-01-15",
-      "score": 0.00145,
-      "delta": 0.00012
-    }
-  ]
-}
-```
+The repository is organized into the following core directories:
 
-## Model Configuration
+* `RQ1_Experiments/` – CTI triage extraction and metadata enrichment experiments
+* `RQ2_Experiments/` – Static analysis with CVSS metric prediction and severity scoring  
+* `RQ3_Experiments/` – Exploitation analysis with EPSS forecasting experiments
+* `RQ4_Experiments/` – Mitigation recommendation and prioritization evaluation
+* `prompts/` – LLM prompt templates for each analysis stage
+* `enhanced_threat_reports/` – Enriched threat intelligence data
+* `GT_Data/` – Ground truth datasets for evaluation
+* `figures/` – Visualizations and result charts used in documentation
 
-The experiments support multiple LLM models through the g4f library:
+Each module reflects a key research question in the threat prioritization workflow—from raw CTI extraction to exploitation prediction and mitigation recommendation.
 
+---
+
+## 🚀 Guide
+
+We organize the codebase into four modular stages reflecting key steps in vulnerability assessment:
+
+1. `RQ1_Experiments/` – CTI triage and threat indicator enrichment  
+2. `RQ2_Experiments/` – CVSS severity scoring via LLMs  
+3. `RQ3_Experiments/` – EPSS exploitation forecasting  
+4. `RQ4_Experiments/` – Mitigation recommendation generation and ranking  
+
+> 📌 Full running instructions (including parameter details and sample configs) will be released upon acceptance or public dissemination of the project.
+
+
+## 🤖 Supported Models
+
+### General-Purpose LLMs
 ```python
 MODELS = {
     "gpt-4o": g4f.models.gpt_4o,
     "gpt-4": g4f.models.gpt_4,
     "gpt-4o-mini": g4f.models.gpt_4o_mini,
     "gemini-1.5-pro": g4f.models.gemini_1_5_pro,
-    "llama-3.1-70b": g4f.models.llama_3_1_70b
+    "gemini-1.5-flash": g4f.models.gemini_1_5_flash,
+    "llama-3.1-70b": g4f.models.llama_3_1_70b,
+    "claude-4.1": g4f.models.claude_opus_4_1,
+    "qwen3-30b": g4f.models.qwen3_30b
 }
 ```
 
-## Output Files
+### Security-Specialized Models
+- **Foundation-Sec-8B** (FS8B)
+- **Lily-Cybersecurity-7B** (LY7B)
+- **ZySec-7B** (ZY7B)
 
-### CVSS Experiments Output
-- `multi_model_results.csv`: Accuracy metrics for each model
-- `multi_model_comparison.png`: Visualization of model performance
-- `{model}_results.json`: Detailed predictions for each model
+---
 
-### EPSS Experiments Output
-- `rq3_exp1_detail_{timestamp}.csv`: Per-sample predictions
-- `rq3_exp1_summary_{timestamp}.csv`: Aggregated metrics by trend and model
-- `exp2_{trend}_{metric}.png`: Performance curves for different window sizes
 
-## Evaluation Metrics
+## 📈 Performance Metrics
 
-### CVSS Metrics
-- **Accuracy**: Per-metric classification accuracy
-- **RMSE/MAE**: Score prediction error
-- **Correlation**: Prediction vs ground truth correlation
+### Evaluation Dimensions
 
-### EPSS Metrics  
-- **RMSE/MAE**: Exploitation probability prediction error
-- **Direction Accuracy**: Correct prediction of increase/decrease
-- **MAPE**: Mean absolute percentage error
-- **R²**: Coefficient of determination
+| Stage | Metrics | Description |
+|-------|---------|-------------|
+| **CTI Triage** | F1, Precision, Recall | Entity extraction accuracy |
+| **CVSS Analysis** | Accuracy, RMSE| Severity scoring precision |
+| **EPSS Forecasting** | RMSE,Direction Accuracy | Exploitation prediction |
+| **Mitigation** | NDCG@k, Kendall's τ | Ranking quality |
 
-## Notes
 
-- The experiments use caching to avoid redundant LLM calls
-- Results are saved incrementally to prevent data loss
-- Random delays are added between API calls to avoid rate limiting
-- Invalid predictions automatically fall back to baseline methods
+---
 
-## Citation
+## 🔍 Implementation Notes
 
-If you use this code in your research, please cite:
+- **Caching**: Results cached incrementally to prevent data loss
+- **Rate Limiting**: Random delays (1.2-2.4s) between API calls
+- **Fallback**: Invalid predictions revert to baseline methods
+- **Reproducibility**: Fixed random seeds (42) for consistent results
 
-```bibtex
-@inproceedings{polar2026,
-  title={POLAR: Automating Cyber Threat Prioritization Through LLM-Powered Assessment},
-  author={Anonymous Authors},
-  booktitle={International Conference on Learning Representations (ICLR)},
-  year={2026}
-}
-```
+---
 
-## License
+## 📚 Related Work
 
-This code is provided for research purposes. See LICENSE file for details.
+POLAR advances beyond existing frameworks:
+- **CVSS (FIRST, 2019)**: Static scoring → We add temporal dynamics
+- **EPSS (Jacobs et al., 2021)**: Binary prediction → We provide reasoning chains
+- **Rule-based systems (Snort/Suricata)**: Fixed patterns → We enable adaptive reasoning
+
+---
+
+## 🛡️ License
+
+This project is provided for research purposes under the MIT License.
+
+---
+
+## 🙏 Acknowledgments
+
+- **FIRST.org** for CVSS and EPSS frameworks
+- **NIST NVD** for vulnerability data
+- **MITRE** for ATT&CK and CVE databases
+- **CISA** for KEV catalog
+
+---
+
+<div align="center">
+  <sub>Built with dedication for advancing cybersecurity research</sub>
+</div>
